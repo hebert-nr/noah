@@ -1,0 +1,39 @@
+<section class="parkpage">
+  <div id="search">
+  <label>Search: </label>
+	 <!--added a search function model "query" which will be called as a filter below-->
+	 <input ng-model="query" placeholder="Enter a Park Name, City, or Zip Code">
+
+	<!--Creates a select box of how we filter our searches-->
+     <label class="formgroup">by:
+	  <select ng-model="parkOrder">
+	  <option value="ParkName">Park Name</option>
+	  <option value="City">City</option>
+	  </select>
+     </label>
+	
+	 <!--creates drop down list of park features loaded from database table "Feature"-->
+	  
+	 <label class="formgroup">
+		<input type="radio" ng-model="direction" name="direction" checked>
+		ascending
+	 </label>
+	 <label class="formgroup">
+		<input type="radio" ng-model="direction" name="direction" value="reverse">
+		descending
+	 </label>
+    </div>
+  
+	<ul class="parksList" ng-show="query">
+		<li class="park cf" ng-repeat="item in data | filter: query | orderBy: parkOrder:direction"> 
+			<a id="paLi" href="#/detailed/{{data.indexOf(item)}}">
+			    <div class="info">
+					<h2>{{item.parkName}}</h2>
+				    <span>City: {{item.city}}, {{item.zipCode}}</span>
+					<hr />
+				   
+			    </div>
+		</li>
+	</ul>
+
+ </section>

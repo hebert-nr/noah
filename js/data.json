@@ -1,0 +1,1429 @@
+[
+	{"parkId":"2",
+	"parkName":"Wildwood Park",
+	"streetAddress":"1101 23rd Ave SE",
+	"city":"Puyallup",
+	"zipCode":"98374",
+	"county":"Pierce"	
+	},
+	{"parkId":"3",
+	"parkName":"Allan Yorke Park",
+	"streetAddress":"7203 West Tapps Hwy E",
+	"city":"Bonney Lake",
+	"zipCode":"98391",
+	"county":"Pierce"
+	},
+	{"parkId":"4",
+	"parkName":"DeCoursey Park",
+	"streetAddress":"1998 7th Ave SW",
+	"city":"Puyallup",
+	"zipCode":"98371",
+	"county":"Pierce"
+	},
+	{
+	"parkId":"5",
+	"parkName":"McFarland Park",
+	"streetAddress":"1391 Chinook Ave",
+	"city":"Enumclaw",
+	"zipCode":"98022",
+	"county":"King"
+	},
+	{
+	"parkId":"6",
+	"parkName":"Bradley Lake Park",
+	"streetAddress":"2791 7th St SE",
+	"city":"Puyallup",
+	"zipCode":"98374",
+	"county":"Pierce"
+	},
+	{
+	"parkId":"7",
+	"parkName":"Spanaway Park",
+	"streetAddress":"14905 Bresemann Blvd S",
+	"city":"Spanaway",
+	"zipCode":"98387",
+	"county":"Pierce"
+	},
+	{
+	"parkId":"8",
+	"parkName":"Veterans Memorial Park",
+	"streetAddress":"411 E Street NE",
+	"city":"Auburn",
+	"zipCode":"98002",
+	"county":"King"
+	},
+	{
+	"parkId":"9",
+	"parkName":"Auburn Game Farm Park",
+	"streetAddress":"3030 R St SE",
+	"city":"Auburn",
+	"zipCode":"98002",
+	"county":"King"	
+	},
+	{
+	"parkId":"10",
+	"parkName":"Mill Creek Earthworks Park",
+	"streetAddress":"1000 Reiten Road",
+	"city":"Kent",
+	"zipCode":"98030",
+	"county":"King"
+	},
+	{
+	"parkId":"11",
+	"parkName":"Lake Fenwick Park",
+	"streetAddress":"25828 Lake Fenwick Rd S",
+	"city":"Kent",
+	"zipCode":"98032",
+	"county":"King"	
+	},
+	{
+	"parkId":"12",
+	"parkName":"Celebration Park",
+	"streetAddress":"1095 S. 324th St",
+	"city":"Federal Way",
+	"zipCode":"98003",
+	"county":"King"
+	},
+	{
+	"parkId":"13",
+	"parkName":"Lake Tapps Park",
+	"streetAddress":"198th Ave E",
+	"city":"Bonney Lake",
+	"zipCode":"98391",
+	"county":"Pierce"	
+	},
+	{
+	"parkId":"14",
+	"parkName":"Titlow Park",
+	"streetAddress":"8425 6th Avenue",
+	"city":"Tacoma",
+	"zipCode":"98456",
+	"county":"Pierce"	
+	},
+	{
+	"parkId":"15",
+	"parkName":"Sam Peach Park",
+	"streetAddress":"1621 10th Ave NW",
+	"city":"Puyallup",
+	"zipCode":"98371",
+	"county":"Pierce"
+	},
+	{
+	"parkId":"16",
+	"parkName":"Grayland Park",
+	"streetAddress":"601 N. Meridian",
+	"city":"Puyallup",
+	"zipCode":"98371",
+	"county":"Pierce"
+	},
+	{
+	"parkId":"17",
+	"parkName":"Pioneer Park",
+	"streetAddress":"Elm Pl & S. Meridian",
+	"city":"Puyallup",
+	"zipCode":"98371",
+	"county":"Pierce"	 
+	},
+	{
+	"parkId":"18",
+	"parkName":"Puyallup Valley Sports Center",
+	"streetAddress":"820 Valley Ave NW",
+	"city":"Puyallup",
+	"zipCode":"98371",
+	"county":"Pierce"
+	},
+	{
+	"parkId":"19",
+	"parkName":"Rainier Woods Park",
+	"streetAddress":"2310 Cherokee Blvd.","city":"Puyallup",
+	"zipCode":"98371",
+	"county":"Pierce"
+	 },
+	{
+	"parkId":"20",
+	"parkName":"Clarks Creek",
+	"streetAddress":"~1901 7th Ave SW",
+	"city":"Puyallup",
+	"zipCode":"98371",
+	"county":"Pierce" 
+	},
+	{
+	"parkId":"21",
+	"parkName":"Puyallup Skatepark",
+	"streetAddress":"1299 4th St NW",
+	"city":"Puyallup",
+	"zipCode":"98371",
+	"county":"Pierce" 
+	},
+	{
+	"parkId":"22",
+	"parkName":"Dacca Park Athletic Fields",
+	"streetAddress":"2785 5th Ave E",
+	"city":"Fife",
+	"zipCode":"98424",
+	"county":"Pierce" 
+	},
+	{
+	"parkId":"23",
+	"parkName":"Wedge Park",
+	"streetAddress":"5920 Valley Ave E",
+	"city":"Fife",
+	"zipCode":"98424",
+	"county":"Pierce" 
+	},
+	{
+	"parkId":"24",
+	"parkName":"Colburn Park",
+	"streetAddress":"5506 20th St E",
+	"city":"Fife",
+	"zipCode":"98424",
+	"county":"Pierce"
+	},
+	{
+	"parkId":"25",
+	"parkName":"Five Acre Park",
+	"streetAddress":"6335 Radiance Blvd E",
+	"city":"Fife",
+	"zipCode":"98424",
+	"county":"Pierce"
+	},
+	{
+	"parkId":"26",
+	"parkName":"Hylebos Nature Area",
+	"streetAddress":"6125 8th St E",
+	"city":"Fife",
+	"zipCode":"98424",
+	"county":"Pierce" 
+	},
+	{
+	"parkId":"27",
+	"parkName":"Glacier View Park",
+	"streetAddress":"Fir Ave N",
+	"city":"Eatonville",
+	"zipCode":"98328",
+	"county":"Pierce"
+	},
+	{
+	"parkId":"28",
+	"parkName":"Ashford County Park",
+	"streetAddress":"29801 State Route 706",
+	"city":"Ashford",
+	"zipCode":"98304",
+	"county":"Pierce" 
+	},
+	{
+	"parkId":"29",
+	"parkName":"Fort Steilacoom Park",
+	"streetAddress":"8714 87th Ave S",
+	"city":"Lakewood",
+	"zipCode":"98498",
+	"county":"Pierce"
+	},
+	{
+	"parkId":"30",
+	"parkName":"Sunset Terrace Park",
+	"streetAddress":"Seaview Ave W",
+	"city":"University Place",
+	"zipCode":"98466",
+	"county":"Pierce"
+	},
+	{
+	"parkId":"31",
+	"parkName":"China Lake Park",
+	"streetAddress":"1811 S Shirley St",
+	"city":"Tacoma",
+	"zipCode":"98465",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"32",
+	"parkName":"Delong Park",
+	"streetAddress":"4702 S 12th Place",
+	"city":"Tacoma",
+	"zipCode":"98405",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"33",
+	"parkName":"Snake Lake Park/Tacoma Nature Center",
+	"streetAddress":"1919 S Tyler St",
+	"city":"Tacoma",
+	"zipCode":"98405",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"34",
+	"parkName":"Heidelberg-Davis Park",
+	"streetAddress":"South 19th St",
+	"city":"Tacoma",
+	"zipCode":"98405",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"35",
+	"parkName":"Franklin Park",
+	"streetAddress":"S Puget Sound Ave",
+	"city":"Tacoma",
+	"zipCode":"98405",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"36",
+	"parkName":"Jefferson Park",
+	"streetAddress":"North Monroe St",
+	"city":"Tacoma",
+	"zipCode":"98406",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"37",
+	"parkName":"War Memorial Park",
+	"streetAddress":"7100 6th Ave",
+	"city":"Tacoma",
+	"zipCode":"98406",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"38",
+	"parkName":"Vassault Playfield",
+	"streetAddress":"6298 N 37th St",
+	"city":"Tacoma",
+	"zipCode":"98407",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"39",
+	"parkName":"Baltimore Park",
+	"streetAddress":"4716 N Baltimore St",
+	"city":"Tacoma",
+	"zipCode":"98407",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"40",
+	"parkName":"Rust Park",
+	"streetAddress":"5405 N Commercial St",
+	"city":"Tacoma",
+	"zipCode":"98407",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"41",
+	"parkName":"Point Defiance Park",
+	"streetAddress":"5400 N Pearl St",
+	"city":"Tacoma",
+	"zipCode":"98407",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"42",
+	"parkName":"Marine Park",
+	"streetAddress":"Ruston Way",
+	"city":"Tacoma",
+	"zipCode":"98407",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"43",
+	"parkName":"Puget Creek Natural Area",
+	"streetAddress":"3100 N Proctor St",
+	"city":"Tacoma",
+	"zipCode":"98407",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"44",
+	"parkName":"Dickman Mill Park",
+	"streetAddress":"2423 Ruston Way",
+	"city":"Tacoma",
+	"zipCode":"98402",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"45",
+	"parkName":"Old Town Park",
+	"streetAddress":"2350 N 30th St",
+	"city":"Tacoma",
+	"zipCode":"98403",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"46",
+	"parkName":"Gateway Park",
+	"streetAddress":"2101",
+	"city":"Tacoma",
+	"zipCode":"98403",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"47",
+	"parkName":"Tacoma Chinese Garden and Reconciliation Park",
+	"streetAddress":"1741 N Schuster Parkway",
+	"city":"Tacoma",
+	"zipCode":"98402",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"48",
+	"parkName":"Garfield Park",
+	"streetAddress":"N Burough Rd",
+	"city":"Tacoma",
+	"zipCode":"98403",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"49",
+	"parkName":"Wright Park",
+	"streetAddress":"501 S I St",
+	"city":"Tacoma",
+	"zipCode":"98405",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"50",
+	"parkName":"Thea's Park",
+	"streetAddress":"405 Dock St",
+	"city":"Tacoma",
+	"zipCode":"98402",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"51",
+	"parkName":"Neighbors' Park",
+	"streetAddress":"722 S I St",
+	"city":"Tacoma",
+	"zipCode":"98405",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"52",
+	"parkName":"People's Park",
+	"streetAddress":"900 Martin Luther King Jr Way",
+	"city":"Tacoma",
+	"zipCode":"98405",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"53",
+	"parkName":"Fireman's Park",
+	"streetAddress":"A St",
+	"city":"Tacoma",
+	"zipCode":"98402",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"54",
+	"parkName":"Frost Park",
+	"streetAddress":"S 9th St",
+	"city":"Tacoma",
+	"zipCode":"98402",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"55",
+	"parkName":"Peck Field",
+	"streetAddress":"4702 s 19th St",
+	"city":"Tacoma",
+	"zipCode":"98405",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"56",
+	"parkName":"Ferry Park",
+	"streetAddress":"1410 14th St",
+	"city":"Tacoma",
+	"zipCode":"98405",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"57",
+	"parkName":"Don Pugnetti Park",
+	"streetAddress":"2085 Pacific Ave",
+	"city":"Tacoma",
+	"zipCode":"98402",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"58",
+	"parkName":"Lincoln Park",
+	"streetAddress":"747 Market St",
+	"city":"Tacoma",
+	"zipCode":"98402",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"59",
+	"parkName":"Verlo Playfield",
+	"streetAddress":"907 Upper Park St",
+	"city":"Tacoma",
+	"zipCode":"98404",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"60",
+	"parkName":"Portland Avenue Park",
+	"streetAddress":"3513 Portland Ave",
+	"city":"Tacoma",
+	"zipCode":"98404",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"61",
+	"parkName":"South Park",
+	"streetAddress":"S Puget Sound Ave",
+	"city":"Tacoma",
+	"zipCode":"98409",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"62",
+	"parkName":"Wapato Park",
+	"streetAddress":"6500 S Sheridan Ave",
+	"city":"Tacoma",
+	"zipCode":"98408",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"63",
+	"parkName":"Seeley Lake Park",
+	"streetAddress":"9112 Lakewood Dr SW",
+	"city":"Tacoma",
+	"zipCode":"98499",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"64",
+	"parkName":"Wards Lake Park",
+	"streetAddress":"84th St Ct S",
+	"city":"Tacoma",
+	"zipCode":"98499",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"65",
+	"parkName":"Skate Park",
+	"streetAddress":"Fairlawn Rd SW",
+	"city":"Tacoma",
+	"zipCode":"98499",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"66",
+	"parkName":"Kobayashi Park",
+	"streetAddress":"Kobayashi Park Dr",
+	"city":"University Place",
+	"zipCode":"98467",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"67",
+	"parkName":"Lakewood Active Park",
+	"streetAddress":"10506 Russell Rd SW",
+	"city":"Lakewood",
+	"zipCode":"98499",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"68",
+	"parkName":"Lakewood Gardens",
+	"streetAddress":"12317 Gravelly Lake Dr SW",
+	"city":"Lakewood",
+	"zipCode":"98499",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"69",
+	"parkName":"American Lake North Park",
+	"streetAddress":"Vernon St and Veteran's Dr SW",
+	"city":"Lakewood",
+	"zipCode":"98498",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"70",
+	"parkName":"Harry Todd Park",
+	"streetAddress":"N Throne Lane SW",
+	"city":"Lakewood",
+	"zipCode":"98498",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"71",
+	"parkName":"Forest Park",
+	"streetAddress":"11603 Farwest Dr SW",
+	"city":"Lakewood",
+	"zipCode":"98498",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"72",
+	"parkName":"Summer Cove",
+	"streetAddress":"San Antonio Place",
+	"city":"Fort Lewis",
+	"zipCode":"98433",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"73",
+	"parkName":"Shoreline Park",
+	"streetAddress":"Shoreline Beach Rd",
+	"city":"Fort Lewis",
+	"zipCode":"98433",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"74",
+	"parkName":"Pioneer Orchard Park",
+	"streetAddress":"1700 Commercial St",
+	"city":"Steilacoom",
+	"zipCode":"98388",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"75",
+	"parkName":"Sunnyside Beach Park",
+	"streetAddress":"Chambers Creek Rd W",
+	"city":"Steilacoom",
+	"zipCode":"98388",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"76",
+	"parkName":"Chamber's Creek Properties Dog Park",
+	"streetAddress":"Chamber's Creek Properties",
+	"city":"University Place",
+	"zipCode":"98467",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"77",
+	"parkName":"Bresemann Forest",
+	"streetAddress":"8th Ave Ct S",
+	"city":"parkland",
+	"zipCode":"98444",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"78",
+	"parkName":"Sprinker Recreation Center",
+	"streetAddress":"14824 C St S",
+	"city":"Tacoma",
+	"zipCode":"98444",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"79",
+	"parkName":"Mayfair County Park",
+	"streetAddress":"13th Ave Ct E",
+	"city":"parkland",
+	"zipCode":"98445",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"80",
+	"parkName":"Fernhill Park",
+	"streetAddress":"502 S 88th St",
+	"city":"Tacoma",
+	"zipCode":"98444",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"81",
+	"parkName":"Stewart Heights Park",
+	"streetAddress":"402 E 56th St",
+	"city":"Tacoma",
+	"zipCode":"98404",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"82",
+	"parkName":"Gas Station Park",
+	"streetAddress":"4802 S Park Ave",
+	"city":"Tacoma",
+	"zipCode":"98408",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"83",
+	"parkName":"Dawson Playfield",
+	"streetAddress":"9000 Portland Ave E",
+	"city":"Tacoma",
+	"zipCode":"98445",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"84",
+	"parkName":"Cloverdale Park",
+	"streetAddress":"1635 E 59th St",
+	"city":"Tacoma",
+	"zipCode":"98404",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"85",
+	"parkName":"Swan Creek County Park",
+	"streetAddress":"2820 Pioneer Way",
+	"city":"Tacoma",
+	"zipCode":"98404",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"86",
+	"parkName":"South Hill Park",
+	"streetAddress":"144th St E",
+	"city":"South Hill",
+	"zipCode":"98373",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"87",
+	"parkName":"Orting Dog Park",
+	"streetAddress":"Levee Rd SW",
+	"city":"Orting",
+	"zipCode":"98360",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"88",
+	"parkName":"Whitehawk Park",
+	"streetAddress":"Orting Ave NW",
+	"city":"Orting",
+	"zipCode":"98360",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"89",
+	"parkName":"Orting Park - North, Central and South",
+	"streetAddress":"Van Scoyoc Ave SW",
+	"city":"Orting",
+	"zipCode":"98360",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"90",
+	"parkName":"Orting Skate Park",
+	"streetAddress":"Olive St SE",
+	"city":"Orting",
+	"zipCode":"98360",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"91",
+	"parkName":"Orting Lyons Club",
+	"streetAddress":"19725 Orville Rd E",
+	"city":"Orting",
+	"zipCode":"98360",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"92",
+	"parkName":"VanderHoof Park",
+	"streetAddress":"SR 410",
+	"city":"Buckley",
+	"zipCode":"98321",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"93",
+	"parkName":"Thunderbird Park",
+	"streetAddress":"SR 410",
+	"city":"Buckley",
+	"zipCode":"98321",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"94",
+	"parkName":"'A' Street Park",
+	"streetAddress":"875 Jefferson St",
+	"city":"Buckley",
+	"zipCode":"98321",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"95",
+	"parkName":"Elk Heights Park",
+	"streetAddress":"Davis St",
+	"city":"Buckley",
+	"zipCode":"98321",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"96",
+	"parkName":"Mountain View Ave Park",
+	"streetAddress":"600 Mountain View Ave",
+	"city":"Orting",
+	"zipCode":"98321",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"97",
+	"parkName":"Third Street Park",
+	"streetAddress":"206 3rd St SW",
+	"city":"South Prairie",
+	"zipCode":"98321",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"98",
+	"parkName":"Cedarview Park",
+	"streetAddress":"9301 208th Ave E",
+	"city":"Bonney Lake",
+	"zipCode":"98391",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"99",
+	"parkName":"Ken Simmons Park",
+	"streetAddress":"18200 74th St E",
+	"city":"Bonney Lake",
+	"zipCode":"98391",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"100",
+	"parkName":"Madrona Park",
+	"streetAddress":"7730 182nd Ave E",
+	"city":"Bonney Lake",
+	"zipCode":"98391",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"101",
+	"parkName":"Victor Falls Park",
+	"streetAddress":"18212 Rhodes Lake Rd E",
+	"city":"Bonney Lake",
+	"zipCode":"98391",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"102",
+	"parkName":"Viking Park",
+	"streetAddress":"18902 82nd St E",
+	"city":"Bonney Lake",
+	"zipCode":"98391",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"103",
+	"parkName":"Sprout Holler",
+	"streetAddress":"Village Parkway E",
+	"city":"Bonney Lake",
+	"zipCode":"98391",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"104",
+	"parkName":"The Edge",
+	"streetAddress":"Canyon View Blvd",
+	"city":"Bonney Lake",
+	"zipCode":"98391",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"105",
+	"parkName":"Manorwood Park",
+	"streetAddress":"2310 Manorwood Dr",
+	"city":"Puyallup",
+	"zipCode":"98374",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"106",
+	"parkName":"Riverside County Park",
+	"streetAddress":"78th St E",
+	"city":"Sumner",
+	"zipCode":"98390",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"107",
+	"parkName":"Loyalty Park",
+	"streetAddress":"1300 Park St",
+	"city":"Sumner",
+	"zipCode":"98390",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"108",
+	"parkName":"Daffodil Valley Sports Complex",
+	"streetAddress":"15225 Washington St E",
+	"city":"Sumner",
+	"zipCode":"98390",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"109",
+	"parkName":"Reuben A. Knoblauch Heritage Park",
+	"streetAddress":"914 Kincaid Ave",
+	"city":"Sumner",
+	"zipCode":"98391",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"110",
+	"parkName":"Rainier View Park",
+	"streetAddress":"15603 Meade McCumber Rd",
+	"city":"Sumner",
+	"zipCode":"98390",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"111",
+	"parkName":"Seibenthaller Park",
+	"streetAddress":"1602 Bonney Ave",
+	"city":"Sumner",
+	"zipCode":"98390",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"112",
+	"parkName":"Callistoga Park",
+	"streetAddress":"Skinner Rd",
+	"city":"Orting",
+	"zipCode":"98360",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"113",
+	"parkName":"Tacoma Narrows Park",
+	"streetAddress":"1502 Lucille Parkway NW",
+	"city":"Gig Harbor",
+	"zipCode":"98335",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"114",
+	"parkName":"Sanskie Brothers Park",
+	"streetAddress":"3211 Harborview Dr",
+	"city":"Gig Harbor",
+	"zipCode":"98335",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"115",
+	"parkName":"Civic Center Green",
+	"streetAddress":"3510 Grandview St",
+	"city":"Gig Harbor",
+	"zipCode":"98335",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"116",
+	"parkName":"Adam Tallman Park",
+	"streetAddress":"6626 Wagner Way NW",
+	"city":"Gig Harbor",
+	"zipCode":"98335",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"117",
+	"parkName":"Wollochet Bay Estuary Park",
+	"streetAddress":"Wollochet Drive NW",
+	"city":"Gig Harbor",
+	"zipCode":"98335",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"118",
+	"parkName":"Fox Island Sand Spit",
+	"streetAddress":"Bella Bella Drive Fi",
+	"city":"Fox Island",
+	"zipCode":"98333",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"119",
+	"parkName":"Fox Island Fishing Pier",
+	"streetAddress":"1453 Ozette Dr Fi",
+	"city":"Fox Island",
+	"zipCode":"98333",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"120",
+	"parkName":"Hales Pass Park",
+	"streetAddress":"3607 Ray Nash Dr NW",
+	"city":"Gig Harbor",
+	"zipCode":"98335",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"121",
+	"parkName":"Kopachuk State Park",
+	"streetAddress":"10712 56th St NW",
+	"city":"Gig Harbor",
+	"zipCode":"98335",
+	"county":"Pierce"
+	        
+},
+	{"parkId":"122",
+	"parkName":"Cutts Island State Park",
+	"streetAddress":"Cutts Island",
+	"city":"Gig Harbor",
+	"zipCode":"98335",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"123",
+	"parkName":"Kenneth Leo Marvin Veterans Memorial Park",
+	"streetAddress":"3580 50th St Ct NW",
+	"city":"Gig Harbor",
+	"zipCode":"98335",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"124",
+	"parkName":"City Park at Crescent Creek",
+	"streetAddress":"3303 Vernhardson St",
+	"city":"Gig Harbor",
+	"zipCode":"98332",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"125",
+	"parkName":"Eddon Boat Park",
+	"streetAddress":"3805 Harborview Dr",
+	"city":"Gig Harbor",
+	"zipCode":"98335",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"126",
+	"parkName":"Donkey Creek Park",
+	"streetAddress":"8714 Harborview Dr",
+	"city":"Gig Harbor",
+	"zipCode":"98332",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"127",
+	"parkName":"Rosedale Park",
+	"streetAddress":"86th Ave NW",
+	"city":"Gig Harbor",
+	"zipCode":"98335",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"128",
+	"parkName":"Sunrise Beach Park",
+	"streetAddress":"10015 Sunrise Beach Dr NW",
+	"city":"Gig Harbor",
+	"zipCode":"98332",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"129",
+	"parkName":"Sehmel Homestead Park",
+	"streetAddress":"10123 78th Ave NW",
+	"city":"Gig Harbor",
+	"zipCode":"98332",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"130",
+	"parkName":"McCormick Forest Park",
+	"streetAddress":"10301 Bujacich Rd NW",
+	"city":"Gig Harbor",
+	"zipCode":"98332",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"131",
+	"parkName":"Rotary Bark Park",
+	"streetAddress":"10100 Bujacich Rd NW",
+	"city":"Gig Harbor",
+	"zipCode":"98332",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"132",
+	"parkName":"Tubby's Trail Dog Park ",
+	"streetAddress":"1701 14th Ave NW",
+	"city":"Gig Harbor",
+	"zipCode":"98335",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"133",
+	"parkName":"Crescent Lake County Park",
+	"streetAddress":"3510 Grandview St",
+	"city":"Gig Harbor",
+	"zipCode":"98335",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"134",
+	"parkName":"Maplewood Park",
+	"streetAddress":"14600 14th Ave NW",
+	"city":"Gig Harbor",
+	"zipCode":"98332",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"135",
+	"parkName":"Purdy Sand Spit",
+	"streetAddress":"Washington SR 302",
+	"city":"Gig Harbor",
+	"zipCode":"98329",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"136",
+	"parkName":"Penrose Point State Park",
+	"streetAddress":"321 158th Ave KP South",
+	"city":"Lakebay",
+	"zipCode":"98349",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"137",
+	"parkName":"Joemma Beach State Park",
+	"streetAddress":"20001 Bay Road KP South",
+	"city":"Longbranch",
+	"zipCode":"98351",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"138",
+	"parkName":"Key Peninsula Metro Parks",
+	"streetAddress":"5514 Key Peninsula Highway",
+	"city":"Lakebay",
+	"zipCode":"98349",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"139",
+	"parkName":"Springbrook Park",
+	"streetAddress":"12601th St SW",
+	"city":"Lakewood",
+	"zipCode":"98499",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"140",
+	"parkName":"Edgewater Park",
+	"streetAddress":"9102 Edgewater Dr SW",
+	"city":"Lakewood",
+	"zipCode":"98499",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"141",
+	"parkName":"Christopher Columbus Bocce Courts",
+	"streetAddress":"Forrest Park Dr",
+	"city":"Fircrest",
+	"zipCode":"98466",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"142",
+	"parkName":"George Masko Park",
+	"streetAddress":"134 Ramsdell St",
+	"city":"Fircrest",
+	"zipCode":"98466",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"143",
+	"parkName":"Homestead Park",
+	"streetAddress":"3715 Bridgeport Way W",
+	"city":"University Place",
+	"zipCode":"98466",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"144",
+	"parkName":"Fircrest Park",
+	"streetAddress":"555 Contra Costa Ave",
+	"city":"Fircrest",
+	"zipCode":"98466",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"145",
+	"parkName":"Cirque Bridgeport Park",
+	"streetAddress":"7250 Cirque Dr W",
+	"city":"University Place",
+	"zipCode":"98466",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"146",
+	"parkName":"Millpond Park",
+	"streetAddress":"Alder St E",
+	"city":"Eatonville",
+	"zipCode":"98328",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"147",
+	"parkName":"Pacific City Park",
+	"streetAddress":"600 3rd Ave SE",
+	"city":"Pacific",
+	"zipCode":"98047",
+	"county":"King"
+	 
+},
+	{"parkId":"148",
+	"parkName":"Frontier Park",
+	"streetAddress":"21718 Meridian Ave E",
+	"city":"Graham",
+	"zipCode":"98338",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"149",
+	"parkName":"Sunrise Visitor Center",
+	"streetAddress":"Sunrise Park Rd",
+	"city":"Ashford",
+	"zipCode":"98304",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"150",
+	"parkName":"Henry M Jackson Visitor Center",
+	"streetAddress":"39000 WA-706",
+	"city":"Ashford",
+	"zipCode":"98304",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"151",
+	"parkName":"Alderwood Park",
+	"streetAddress":"208 Browns Point Blvd",
+	"city":"Tacoma",
+	"zipCode":"98422",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"152",
+	"parkName":"Alling Park",
+	"streetAddress":"1134 S. 60th St.","city":"Tacoma",
+	"zipCode":"98408",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"153",
+	"parkName":"Browns Point Athletic Complex",
+	"streetAddress":"1526 51st St NE",
+	"city":"Tacoma",
+	"zipCode":"98422",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"154",
+	"parkName":"Brown's Point Lighthouse Park",
+	"streetAddress":"201 Tulalip St NE",
+	"city":"Tacoma",
+	"zipCode":"98422",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"155",
+	"parkName":"Browns Point Playfield",
+	"streetAddress":"4915 La Hal Da Lane NE",
+	"city":"Tacoma",
+	"zipCode":"98422",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"156",
+	"parkName":"Cumming's Park",
+	"streetAddress":"3939 Ruston Way",
+	"city":"Tacoma",
+	"zipCode":"98402",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"157",
+	"parkName":"Dash Point Park",
+	"streetAddress":"1500 Beach Dr NE",
+	"city":"Tacoma",
+	"zipCode":"98422",
+	"county":"Pierce "
+	 
+},
+	{"parkId":"158",
+	"parkName":"Hamilton Park",
+	"streetAddress":"321 Ruston Way",
+	"city":"Tacoma",
+	"zipCode":"98402",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"159",
+	"parkName":"Irving Park",
+	"streetAddress":"2502 Hosmer St",
+	"city":"Tacoma",
+	"zipCode":"98405",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"160",
+	"parkName":"Jack Hyde Park",
+	"streetAddress":"2201 Ruston Way",
+	"city":"Tacoma",
+	"zipCode":"98402",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"161",
+	"parkName":"Jane Clark Park",
+	"streetAddress":"4825 N 39th St",
+	"city":"Tacoma",
+	"zipCode":"98407",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"162",
+	"parkName":"Kandle Park",
+	"streetAddress":"2323 N Shirley St",
+	"city":"Tacoma",
+	"zipCode":"98406",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"163",
+	"parkName":"Lincoln Heights Park",
+	"streetAddress":"3690 S. Steele St",
+	"city":"Tacoma",
+	"zipCode":"98409",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"164",
+	"parkName":"Lots for Tots",
+	"streetAddress":"1216 South I St",
+	"city":"Tacoma",
+	"zipCode":"98405",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"165",
+	"parkName":"Manitou Park",
+	"streetAddress":"4408 American Lake Blvd",
+	"city":"Tacoma",
+	"zipCode":"98409",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"166",
+	"parkName":"McCarver Park",
+	"streetAddress":"2301 South J St",
+	"city":"Tacoma",
+	"zipCode":"98405",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"167",
+	"parkName":"Norpoint",
+	"streetAddress":"4818 Nassau Ave NE",
+	"city":"Tacoma",
+	"zipCode":"98422",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"168",
+	"parkName":"North Slope Historic District Park",
+	"streetAddress":"1015 N 85th St",
+	"city":"Tacoma",
+	"zipCode":"98403",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"169",
+	"parkName":"Northeast Tacoma Playground",
+	"streetAddress":"5520 29th St NE",
+	"city":"Tacoma",
+	"zipCode":"98422",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"170",
+	"parkName":"Oakland Madrona Park",
+	"streetAddress":"3114 S Madison St",
+	"city":"Tacoma",
+	"zipCode":"98409",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"171",
+	"parkName":"Optimist Park",
+	"streetAddress":"1330 N James St",
+	"city":"Tacoma",
+	"zipCode":"98406",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"172",
+	"parkName":"Puget Park",
+	"streetAddress":"3111 N. Proctor St",
+	"city":"Tacoma",
+	"zipCode":"98407",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"173",
+	"parkName":"Rogers Park",
+	"streetAddress":"3151 East L St",
+	"city":"Tacoma",
+	"zipCode":"98404",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"174",
+	"parkName":"Roosevelt Park",
+	"streetAddress":"3601 E Roosevelt Ave",
+	"city":"Tacoma",
+	"zipCode":"98404",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"175",
+	"parkName":"Ryan's Park",
+	"streetAddress":"429 S. 80th St",
+	"city":"Tacoma",
+	"zipCode":"98408",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"176",
+	"parkName":"Sawyer Tot Lot",
+	"streetAddress":"3315 S. Sawyer St",
+	"city":"Tacoma",
+	"zipCode":"98418",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"177",
+	"parkName":"Sheridan Park",
+	"streetAddress":"2347 S. Sheridan Ave",
+	"city":"Tacoma",
+	"zipCode":"98405",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"178",
+	"parkName":"South End Recreation and Adventure (SERA)","streetAddress":"6002 S. Adam St",
+	"city":"Tacoma",
+	"zipCode":"98409",
+	"county":"Pierce"
+	
+},
+	{"parkId":"179",
+	"parkName":"Ursich Park",
+	"streetAddress":"2412 N. 29th St",
+	"city":"Tacoma",
+	"zipCode":"98403",
+	"county":"Pierce"
+	 
+},
+	{"parkId":"180",
+	"parkName":"Wapato Hills Park",
+	"streetAddress":"6231 S. Wapato St",
+	"city":"Tacoma",
+	"zipCode":"98409",
+	"county":"Pierce"
+	}
+]
+

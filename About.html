@@ -1,0 +1,58 @@
+<!--Find new links for social media, change the images so they're a little more friendly, maybe less green on borders?-->
+<!DOCTYPE html>
+<html lang="en" ng-app="thePPF">
+
+<head>
+<link rel="shortcut icon" href="favicon.ico" />
+  <meta charset="utf-8" />
+<title>The PPF - About</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="libs/angular.min.js"></script> <!--instantiates Angular-->
+  <script src="libs/angular-route.min.js"></script> <!--instantiates Angular's "filter's" ability to bind data and managing how it maps to the current page since Angular is single page functionality. Meaning, it'll help load the partials we created-->
+  <script src="libs/angular-animate.min.js"></script><!--instantiates animation specific to Angular-->
+  <script src="js/apps.js"></script>
+  <script src="js/controllers.js"></script>  
+  <link rel="stylesheet" href="css/style.css" /> 
+  <link rel="stylesheet" href="css/styleAng.css" />  
+</head>
+<body>
+
+ <div id="wrapper">
+	<header id="head">
+		<a href="index.html"><img src="images/ppf_logo.png" alt="Park Finder" title="The PPF - Perennial Park Finder"></img></a>
+	</header>
+		<div id="nav">
+		<ul>
+			<li><a href="index.html">Home</a></li>
+			<li class="active"><a href="about.html">About</a></li>
+			<li><a href="contact.html">Contact</a></li>
+		</ul>
+	</div>	
+	<div class="banner">
+			<img src="images/lakeRainbow.jpg" alt="Park Finder" title="The PPF - Perennial Park Finder"> </img>
+	</div>
+	<center><h1 class="centerSay">... find something new and beautiful...</h1></center>
+
+	<footer>
+		<div class="section">
+			<img class="swing" src="images/tree-swing.png"></img>
+		</div>
+		<div class="section">
+		<br />
+		<p class="hideMe">------------------------------------------------------------------------</p>
+		<h3>&#169;Copyright 2015 PPF</h3>
+		</div>
+		<div class="section">
+			<p>Connect with us</p>
+			<ul>
+				<li><a href="#"><img src="images/fb_tap.png"</img></a></li>
+				<li><a href="#"><img src="images/insta-tap.png"</img></a></li>
+				<li><a href="#"><img src="images/pin_tap.png"</img></a></li>
+			</ul>
+		</div>
+		
+	</footer>
+ </div>
+
+</body>
+</html>
