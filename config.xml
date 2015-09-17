@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>   
+<widget xmlns="http://www.w3.org/ns/widgets"           
+        xmlns:gap= "http://phonegap.com/ns/1.0">
+     <author>Noah Hebert</author>
+     <name>Parkolo</name>
+     <description>A way to search for parks through their name, the city or an features available at the parks.  Database expansion to come.</description>
+     <content src="index.html"/>   
+</widget>  
