@@ -1,11 +1,11 @@
 //This is the file that controls the partials 
 
-var thePPF = angular.module('thePPF', [
+var Parkolo = angular.module('Parkolo', [
   'ngRoute', 
   'parkController'
 ]);
 
-thePPF.config(['$routeProvider', function($routeProvider){
+Parkolo.config(['$routeProvider', function($routeProvider){
 	$routeProvider.
 	when('/list', {
 		templateUrl: 'partials/list.html',

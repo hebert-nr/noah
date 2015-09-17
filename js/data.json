@@ -4,21 +4,32 @@
 	"streetAddress":"1101 23rd Ave SE",
 	"city":"Puyallup",
 	"zipCode":"98374",
-	"county":"Pierce"	
+	"county":"Pierce",
+	"latitude":"4.730787590000000e+001",
+	"longitude":"-1.225309605000000e+002",
+    "feature": "Playground, Picnic Area, Exercise Trail, Restrooms, Hiking, Disabled Access, BBQ/Grilling"
 	},
-	{"parkId":"3",
+	{
+	"parkId":"3",
 	"parkName":"Allan Yorke Park",
 	"streetAddress":"7203 West Tapps Hwy E",
 	"city":"Bonney Lake",
 	"zipCode":"98391",
-	"county":"Pierce"
+	"county":"Pierce",
+	"latitude":"4.730787590000000e+001",
+	"longitude":"-1.225309605000000e+002",
+	"feature": "Playground, Tennis Court, Stage, Baseball Fields, Dock Access, Boat Launch, Fishing, Swimming, Volleyball, Skate Park, Walking Trail, Disabled Access, BBQ/Grilling"
 	},
-	{"parkId":"4",
+	{
+	"parkId":"4",
 	"parkName":"DeCoursey Park",
 	"streetAddress":"1998 7th Ave SW",
 	"city":"Puyallup",
 	"zipCode":"98371",
-	"county":"Pierce"
+	"county":"Pierce",
+	"latitude":"4.730787590000000e+001",
+	"longitude":"-1.225309605000000e+002",
+	"feature": "Playground, Pond, Walking Trail, Stream/Creek, Fishing, Restrooms, Disabled Access, BBQ/Grilling"
 	},
 	{
 	"parkId":"5",
@@ -26,7 +37,10 @@
 	"streetAddress":"1391 Chinook Ave",
 	"city":"Enumclaw",
 	"zipCode":"98022",
-	"county":"King"
+	"county":"King",
+	"latitude":"4.730787590000000e+001",
+	"longitude":"-1.225309605000000e+002",
+	"feature": "Playground, Hiking, Disabled Access, BBQ/Grilling"
 	},
 	{
 	"parkId":"6",
