@@ -6,3 +6,6 @@
      <description>A way to search for parks through their name, the city or an features available at the parks.  Database expansion to come.</description>
      <content src="index.html"/>   
 </widget>  
+
+<icon src="Parkolo_icon.png" gap:platform="winphone" />
+  <icon src="Parkolo_icon.png" gap:platform="winphone" gap:role="background" />
