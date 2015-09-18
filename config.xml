@@ -7,5 +7,8 @@
      <content src="index.html"/>   
 </widget>  
 
-<icon src="Parkolo_icon.png" gap:platform="winphone" />
-  <icon src="Parkolo_icon.png" gap:platform="winphone" gap:role="background" />
+<platform name="wp8">
+              <icon src="res/wp/Parkolo_icon.png" width="99" height="99" />
+              <!-- tile image -->
+              <icon src="res/wp/Parkolo_icon.png" width="159" height="159" />
+     </platform>
