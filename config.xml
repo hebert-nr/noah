@@ -3,13 +3,10 @@
         xmlns:gap= "http://phonegap.com/ns/1.0">
      <author>Noah Hebert</author>
      <name>Parkolo</name>
-     <description>A way to search for parks through their name, the city or an features available at the parks.  Database expansion to come.</description>
+     <description>A way to search for parks through their name, the city or any features available at the parks.  Database expansion to come.</description>
      <content src="index.html"/>  
-	 <platform name="wp8">
-              <icon src="images/Parkolo_icon.png" width="99" height="99" />
-              <!-- tile image -->
-              <icon src="images/Parkolo_icon.png" width="159" height="159" />
-     </platform>
+	 <icon src="images/Parkolo_icon.png" gap:platform="winphone" />
+<icon src="images/Parkolo_icon.png" gap:platform="winphone" gap:role="background" />
 </widget>  
 
     
