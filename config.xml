@@ -6,7 +6,7 @@
 	version     = "0.8.0"
 	versionCode = "10" >
 
-	<preference name="phonegap-version" value="3.5.0" />
+	<preference name="phonegap-version" value="3.7.0" />
 
 	<name>Parkolo</name>
 	<content src="index.html"/>  
