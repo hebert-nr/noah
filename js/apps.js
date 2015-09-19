@@ -2,7 +2,8 @@
 
 var Parkolo = angular.module('Parkolo', [
   'ngRoute', 
-  'parkController'
+  'parkController',
+  'angularUtils.directives.dirPagination'
 ]);
 
 Parkolo.config(['$routeProvider', function($routeProvider){

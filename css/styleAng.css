@@ -200,9 +200,25 @@ ol, ul {
   margin:0;
  padding:0;
 text-align:center; 
-color:#005406;
-	
+color:#005406;	
 }
+
+.ctrl{
+	text-align:center;
+	font-size: 2em;
+	color:white;
+}
+
+.ctrl a{
+	color: #005406;
+}
+
+.ctrl a:visited{
+	color:#005406;
+}
+
+
+
 #feat{
 	color:white;
 	font-weight:100;

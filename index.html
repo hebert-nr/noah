@@ -11,14 +11,18 @@
   <script src="libs/angular-animate.min.js"></script><!--instantiates animation specific to Angular-->
   <script src="js/apps.js"></script>
   <script src="js/controllers.js"></script>  
+  <script src="libs/dirPagination.js"></script>
   <link rel="stylesheet" href="css/style.css" /> 
-  <link rel="stylesheet" href="css/styleAng.css" />  
-  
+  <link rel="stylesheet" href="css/styleAng.css" /> 
+   
+   <!--IF THE URL LIKE %DEFAULT.HTML%, BACK BUTTON GOES BACK TO SEARCH UNLESS SEARCH IS EMPTY THEN IT EXITS APP, OTHERWISE BACK BUTTON DOES NOTHING (
+meaning it won't parse through all the parks we've already searched for   -->
+   
 </head>
 <body>
  <div id="wrapper" >
 	<div id="head">
-		<a href="#"><img src="images/Parkolo_logo2.png" alt="Park Finder" title="Parkolo!"></img></a>
+		<img src="images/Parkolo_logo2.png" alt="Park Finder" title="Parkolo!"></img>
 	</div>
 	<div id="nav">
 		<ul>

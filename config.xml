@@ -1,8 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>   
-<widget xmlns="http://www.w3.org/ns/widgets"           
-        xmlns:gap= "http://phonegap.com/ns/1.0">
-     <author>Noah Hebert</author>
-     <name>Parkolo</name>
-     <description>A way to search for parks through their name, the city or an features available at the parks.  Database expansion to come.</description>
-     <content src="index.html"/>   
-</widget>  
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+
+	xmlns:gap   = "http://phonegap.com/ns/1.0"
+	id          = "com.phonegap.parkolo"
+	version     = "0.8.0"
+	versionCode = "10" >
+
+	<preference name="phonegap-version" value="3.7.0" />
+
+	<name>Parkolo</name>
+	<content src="index.html"/>  
+	<icon src="images/Parkolo_icon.png" gap:platform="winphone" />
+	<icon src="images/Parkolo_icon.png" gap:platform="winphone" gap:role="background" />
+	<icon src="images/Parkolo_icon.png" gap:platform="android" gap:qualifier="ldpi" />
+	<icon src="images/Parkolo_icon.png" gap:platform="android" gap:qualifier="mdpi" />
+	<icon src="images/Parkolo_icon.png" gap:platform="android" gap:qualifier="hdpi" />
+	<icon src="images/Parkolo_icon.png" gap:platform="android" gap:qualifier="xhdpi" />
+	<icon src="images/Parkolo_icon.png" gap:platform="android" gap:qualifier="xxhdpi" />
+	<icon src="images/Parkolo_icon.png" gap:platform="android" gap:qualifier="fr-xxhdpi" />
+
+	<description>
+		A way to search for new parks to take your kids, your dog or your own inner child to.  Database expansion to come. 
+	</description>
+
+	<author email="sodajrrk@gmail.com">
+		Noah Hebert
+	</author>
+	<gap:plugin name="org.apache.cordova.device" />
+	
+
+</widget>
