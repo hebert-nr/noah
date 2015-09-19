@@ -169,8 +169,12 @@ body{
 	font-size: 13px;
 }
 #aboutMe{
+<<<<<<< HEAD
  margin-top: 7em;
 font-size: 15px; 
+=======
+ margin-top: 7em;	
+>>>>>>> 07ec6d99e0a21302a62d715c556b1b6266be6175
 }
 .searching h1{
 	font-weight:100;
