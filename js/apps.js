@@ -20,3 +20,5 @@ Parkolo.config(['$routeProvider', function($routeProvider){
 		 redirectTo: '/list'
 	 });
 }]);
+
+$compileProvider.aHrefSanitizationWhitelist(/^\s*(https?|ftp|mailto|file|ghttps?|ms-appx|x-wmapp0):/);
