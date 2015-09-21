@@ -20,11 +20,9 @@ Parkolo.config(['$routeProvider', function($routeProvider){
 		 redirectTo: '/list'
 	 });
 }]);
-.config( [
-    '$compileProvider',
-    function( $compileProvider )
-    {   
-        $compileProvider.aHrefSanitizationWhitelist(/^\s*(https?|ftp|mailto|file|ghttps?|ms-appx|x-wmapp0):/);
-        // Angular before v1.2 uses $compileProvider.urlSanitizationWhitelist(...)
+Parkolo.config( [
+    '$compileProvider', function( $compileProvider ){   
+        $compileProvider.
+	aHrefSanitizationWhitelist(/^\s*(https?|ftp|mailto|file|ghttps?|ms-appx|x-wmapp0):/);
     }
 ]);
