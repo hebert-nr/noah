@@ -6,9 +6,9 @@
 "city":"Puyallup",
 "zipCode":"98374",
 "county":"Pierce",
-"latitude":"4.730787590000000e+001",
-"longitude":"-1.225309605000000e+002",
-"feature":" BBQ/Grill, Disabled Access, Hiking, Multi-Purpose Room Rental, Picnic Area, Playground, Restrooms, Stream or Creek, Toddler Playground, Walking Trail, Waterfall"
+"latitude":"47.171212",
+"longitude":"-122.2781745",
+"feature":" BBQ/Grill, Disabled Access, Covered Picnic Rental, Hiking, Multi-Purpose Room Rental, Baseball Field, Picnic Area, Playground, Restrooms, Stream or Creek, Toddler Playground, Walking Trail, Waterfall"
 },
 {
 "parkId":"3",
@@ -17,9 +17,9 @@
 "city":"Bonney Lake",
 "zipCode":"98391",
 "county":"Pierce",
-"latitude":"4.718974960000000e+001",
-"longitude":"-1.221654507000000e+002",
-"feature":" Baseball Field, Basketball Court, BBQ/Grill, Beach, Boat Launch, Concessions, Disabled Access, Dock Access, Fishing, Lake, Lighted Tennis Courts, Picnic Area, Playground, Restrooms, Skate Park, Soccer Field, Stage, Stream or Creek, Tennis Court, Volleyball, Walking Trail"
+"latitude":"47.1906568",
+"longitude":" -122.3229222",
+"feature":"Baseball Field, Basketball Court, BBQ/Grill, Beach, Boat Launch, Concessions, Disabled Access, Dock Access, Fishing, Lake, Lighted Tennis Courts, Picnic Area, Playground, Restrooms, Skate Park, Soccer Field, Stage, Stream or Creek, Tennis Court, Volleyball, Walking Trail"
 },
 {
 "parkId":"4",
@@ -28,9 +28,9 @@
 "city":"Puyallup",
 "zipCode":"98371",
 "county":"Pierce",
-"latitude":"4.730787590000000e+001",
-"longitude":"-1.225309605000000e+002",
-"feature":"BBQ/Grill, Dock Access, Fishing, Picnic Area, Playground, Pond, Restrooms, Stream or Creek, Toddler Playground, Walking Trail"
+"latitude":"47.186785",
+"longitude":"-122.3197859",
+"feature":"BBQ/Grill, Dock Access, Covered Picnic Rental, Juvenile Fishing, Picnic Area, Playground, Pond, Restrooms, Stream or Creek, Toddler Playground, Walking Trail"
 },
 {
 "parkId":"5",
@@ -39,9 +39,9 @@
 "city":"Enumclaw",
 "zipCode":"98022",
 "county":"King",
-"latitude":"4.730787590000000e+001",
-"longitude":"-1.225309605000000e+002",
-"feature":""
+"latitude":"47.212209",
+"longitude":"-121.98630262",
+"feature":"Playground, Disabled Access, Restrooms, Picnic Area, Baseball Field, Walking Trail, Basketball Court"
 },
 {
 "parkId":"6",
@@ -50,9 +50,9 @@
 "city":"Puyallup",
 "zipCode":"98374",
 "county":"Pierce",
-"latitude":"4.730787590000000e+001",
-"longitude":"-1.225309605000000e+002",
-"feature":" Baseball Field, BBQ/Grill, Disabled Access, Dock Access, Fishing, Lake, Picnic Area, Playground, Restrooms, Walking Trail"
+"latitude":"47.1610869",
+"longitude":"-122.2841332",
+"feature":"Baseball Field, BBQ/Grill, Covered Picnic Rental, Disabled Access, Dock Access, Fishing, Lake, Picnic Area, Playground, Restrooms, Walking Trail"
 },
 {
 "parkId":"7",
@@ -61,8 +61,8 @@
 "city":"Spanaway",
 "zipCode":"98387",
 "county":"Pierce",
-"latitude":"4.730787590000000e+001",
-"longitude":"-1.225309605000000e+002",
+"latitude":"47.1164915",
+"longitude":"-122.4441807",
 "feature":" Access Fee, Basketball Court, BBQ/Grill, Beach, Boat Launch, Boat Rentals, Disabled Access, Dock Access, Fishing, Lake, Picnic Area, Playground, Restrooms, Tennis Court, Walking Trail"
 },
 {
@@ -72,9 +72,9 @@
 "city":"Auburn",
 "zipCode":"98002",
 "county":"King",
-"latitude":"4.730787590000000e+001",
-"longitude":"-1.225309605000000e+002",
-"feature":""
+"latitude":"47.3132602",
+"longitude":"-122.2213775",
+"feature":"Playground, Basketball Court, Multi-Purpose Room Rental, BBQ/Grill"
 },
 {
 "parkId":"9",
@@ -83,9 +83,9 @@
 "city":"Auburn",
 "zipCode":"98002",
 "county":"King",
-"latitude":"4.730787590000000e+001",
-"longitude":"-1.225309605000000e+002",
-"feature":" Ampitheater, Baseball Field, Basketball Court, BBQ/Grill, Concessions, Disabled Access, Fishing, Lighted Tennis Courts, Picnic Area, Playground, Restrooms, River, Soccer Field, Stage, Tennis Court, Volleyball, Walking Trail"
+"latitude":"47.280441",
+"longitude":"-122.2054517",
+"feature":" Ampitheater, Baseball Field, Covered Picnic Rental, Basketball Court, BBQ/Grill, Concessions, Disabled Access, Lighted Tennis Courts, Picnic Area, Playground, Restrooms, River, Soccer Field, Stage, Tennis Court, Volleyball, Walking Trail"
 },
 {
 "parkId":"10",
@@ -94,9 +94,9 @@
 "city":"Kent",
 "zipCode":"98030",
 "county":"King",
-"latitude":"4.730787590000000e+001",
-"longitude":"-1.225309605000000e+002",
-"feature":""
+"latitude":"47.3822848",
+"longitude":"-122.2226734",
+"feature":"Multi-Purpose Room Rental, Picnic Area, Restrooms, Walking Trail, Pond, Stage, Ampitheater, Stream/Creek, Disabled Access"
 },
 {
 "parkId":"11",
@@ -105,8 +105,8 @@
 "city":"Kent",
 "zipCode":"98032",
 "county":"King",
-"latitude":"4.730787590000000e+001",
-"longitude":"-1.225309605000000e+002",
+"latitude":"47.3682825",
+"longitude":"-122.2721941",
 "feature":" Boat Launch, Disabled Access, Disc golf, Dock Access, Fishing, Lake, Walking Trail"
 },
 {
@@ -116,9 +116,9 @@
 "city":"Federal Way",
 "zipCode":"98003",
 "county":"King",
-"latitude":"4.730787590000000e+001",
-"longitude":"-1.225309605000000e+002",
-"feature":""
+"latitude":"47.3083286",
+"longitude":"-122.3202592",
+"feature":"Playground, Restrooms, Soccer Field, Baseball Field, Disabled Access, Walking Trail, Concessions"
 },
 {
 "parkId":"13",
@@ -127,8 +127,8 @@
 "city":"Bonney Lake",
 "zipCode":"98391",
 "county":"Pierce",
-"latitude":"4.730787590000000e+001",
-"longitude":"-1.225309605000000e+002",
+"latitude":"47.2420453",
+"longitude":"-122.1678951",
 "feature":" Access Fee, Beach, Boat Launch, Concessions, Disabled Access, Dock Access, Lake, Picnic Area, Restrooms"
 },
 {
@@ -138,9 +138,9 @@
 "city":"Tacoma",
 "zipCode":"98456",
 "county":"Pierce",
-"latitude":"4.730787590000000e+001",
-"longitude":"-1.225309605000000e+002",
-"feature":" Baseball Field, Basketball Court, BBQ/Grill, Beach, Disabled Access, Excersize Path, Lighted Tennis Courts, Multi-Purpose Room Rental, Picnic Area, Playground, Pond, Restrooms, Spray Park, Tennis Court, Toddler Playground, Walking Trail"
+"latitude":" 47.2531536",
+"longitude":"-122.5495709",
+"feature":" Baseball Field,  Covered Picnic Rental, Basketball Court, BBQ/Grill, Beach, Disabled Access, Excersize Path, Lighted Tennis Courts, Multi-Purpose Room Rental, Picnic Area, Playground, Pond, Restrooms, Spray Park, Tennis Court, Toddler Playground, Walking Trail"
 },
 {
 "parkId":"15",
@@ -149,8 +149,8 @@
 "city":"Puyallup",
 "zipCode":"98371",
 "county":"Pierce",
-"latitude":"4.730787590000000e+001",
-"longitude":"-1.225309605000000e+002",
+"latitude":"47.199963",
+"longitude":"-122.315297",
 "feature":" Baseball Field, Disabled Access, Picnic Area, Playground, Restrooms, Walking Trail"
 },
 {
@@ -160,8 +160,8 @@
 "city":"Puyallup",
 "zipCode":"98371",
 "county":"Pierce",
-"latitude":"4.730787590000000e+001",
-"longitude":"-1.225309605000000e+002",
+"latitude":"47.1953972",
+"longitude":"-122.2926226",
 "feature":" Picnic Area, Playground, Restrooms"
 },
 {
@@ -171,31 +171,31 @@
 "city":"Puyallup",
 "zipCode":"98371",
 "county":"Pierce",
-"latitude":"4.730787590000000e+001",
-"longitude":"-1.225309605000000e+002",
+"latitude":"47.1893184",
+"longitude":"-122.2948858",
 "feature":" Disabled Access, Multi-Purpose Room Rental, Playground, Restrooms, Spray Park, Stage, Toddler Playground"
 },
 {
 "parkId":"18",
-"parkName":"Puyallup Valley Sports Center",
-"streetAddress":"820 Valley Ave NW",
+"parkName":"Puyallup Valley Sports Complex/Recreation Center",
+"streetAddress":"808 Valley Ave NW",
 "city":"Puyallup",
 "zipCode":"98371",
 "county":"Pierce",
-"latitude":"4.730787590000000e+001",
-"longitude":"-1.225309605000000e+002",
-"feature":" Baseball Field, Basketball Court, Concessions, Disabled Access, Multi-Purpose Room Rental, Playground, Restrooms, Soccer Field, Tennis Court, Walking Trail"
+"latitude":"47.2093331",
+"longitude":"-122.3041438",
+"feature":" Baseball Field, Basketball Court, Concessions, Disabled Access, Multi-Purpose Room Rental, Playground, Restrooms, Tennis Court, Walking Trail"
 },
 {
 "parkId":"19",
 "parkName":"Rainier Woods Park",
 "streetAddress":"2310 Cherokee Blvd.",
 "city":"Puyallup",
-"zipCode":"98.71",
+"zipCode":"98371",
 "county":"Pierce",
-"latitude":"4.730787590000000e+001",
-"longitude":"-1.225309605000000e+002",
-"feature":""
+"latitude":"47.1661639",
+"longitude":"-122.2594069",
+"feature":"Baseball Field, Basketball Courts, Playground, Picnic Area, Disabled Access"
 },
 {
 "parkId":"20",
@@ -204,8 +204,8 @@
 "city":"Puyallup",
 "zipCode":"98371",
 "county":"Pierce",
-"latitude":"4.730787590000000e+001",
-"longitude":"-1.225309605000000e+002",
+"latitude":"47.1820015",
+"longitude":"-122.3197859",
 "feature":"Baseball Field, Disabled Access, Excersize Path, Hiking, Off Leash Dog Park, Restrooms, Stream or Creek, Tennis Court, Walking Trail"
 },
 {
@@ -215,8 +215,8 @@
 "city":"Puyallup",
 "zipCode":"98371",
 "county":"Pierce",
-"latitude":"4.730787590000000e+001",
-"longitude":"-1.225309605000000e+002",
+"latitude":"47.2021308",
+"longitude":"-122.2976782",
 "feature":"Disabled Access, Restrooms, River, Skate Park, Walking Trail"
 },
 {
@@ -226,9 +226,9 @@
 "city":"Fife",
 "zipCode":"98424",
 "county":"Pierce",
-"latitude":"4.730787590000000e+001",
-"longitude":"-1.225309605000000e+002",
-"feature":""
+"latitude":"47.2310942",
+"longitude":",-122.3582427",
+"feature":"Baseball Field, Volleyball, Basketball Court, Restrooms, Playground, Disabled Access, Pond, Walking Trail"
 },
 {
 "parkId":"23",
@@ -237,9 +237,9 @@
 "city":"Fife",
 "zipCode":"98424",
 "county":"Pierce",
-"latitude":"4.730787590000000e+001",
-"longitude":"-1.225309605000000e+002",
-"feature":""
+"latitude":"47.232003",
+"longitude":"-122.350013",
+"feature":"Playground, Toddler Playground, Basketball Court, Picnic Area, Disabled Access"
 },
 {
 "parkId":"24",
@@ -248,9 +248,9 @@
 "city":"Fife",
 "zipCode":"98424",
 "county":"Pierce",
-"latitude":"4.730787590000000e+001",
-"longitude":"-1.225309605000000e+002",
-"feature":""
+"latitude":"47.2383371",
+"longitude":"-122.3554069",
+"feature":"Playground, Picnic Area, Pool"
 },
 {
 "parkId":"25",
@@ -259,9 +259,9 @@
 "city":"Fife",
 "zipCode":"98424",
 "county":"Pierce",
-"latitude":"4.730787590000000e+001",
-"longitude":"-1.225309605000000e+002",
-"feature":""
+"latitude":"47.225810",
+"longitude":"-122.343951",
+"feature":"Playground, Skate Park, Picnic Area, Walking Trail, Restroom, Basketball Court, Toddler Playground"
 },
 {
 "parkId":"26",
@@ -270,9 +270,9 @@
 "city":"Fife",
 "zipCode":"98424",
 "county":"Pierce",
-"latitude":"4.730787590000000e+001",
-"longitude":"-1.225309605000000e+002",
-"feature":""
+"latitude":"47.250104",
+"longitude":"-122.346852",
+"feature":"Stream/Creek, Pond, Walking Trail"
 },
 {
 "parkId":"27",
@@ -281,9 +281,9 @@
 "city":"Eatonville",
 "zipCode":"98328",
 "county":"Pierce",
-"latitude":"4.730787590000000e+001",
-"longitude":"-1.225309605000000e+002",
-"feature":""
+"latitude":"46.8699979",
+"longitude":"-122.2724811",
+"feature":"Basketball Court, Restroom"
 },
 {
 "parkId":"28",
@@ -292,9 +292,9 @@
 "city":"Ashford",
 "zipCode":"98304",
 "county":"Pierce",
-"latitude":"4.730787590000000e+001",
-"longitude":"-1.225309605000000e+002",
-"feature":""
+"latitude":"46.7614465",
+"longitude":"-122.0397065",
+"feature":"Playground, Restroom, Disabled Access, Picnic Area, Walking Trail, Pond, Ampitheater"
 },
 {
 "parkId":"29",
@@ -303,9 +303,9 @@
 "city":"Lakewood",
 "zipCode":"98498",
 "county":"Pierce",
-"latitude":"4.730787590000000e+001",
-"longitude":"-1.225309605000000e+002",
-"feature":""
+"latitude":"47.1705893",
+"longitude":"-122.5648762",
+"feature":"Off Leash Dog Park,  Covered Picnic Rental, Restrooms, Playground, Toddler Playground, Walking Trail, Baseball Field, Soccer Field, Picnic Area, BBQ/Grill, Fishing, Lake, Multi-Purpose Rental Room"
 },
 {
 "parkId":"30",
@@ -314,20 +314,20 @@
 "city":"University Place",
 "zipCode":"98466",
 "county":"Pierce",
-"latitude":"4.730787590000000e+001",
-"longitude":"-1.225309605000000e+002",
-"feature":""
+"latitude":"47.2419648",
+"longitude":"-122.5336054",
+"feature":"Playground, Toddler Playground, Baseball Field, Restroom, Picnic Area, Covered Picnic Rental"
 },
 {
 "parkId":"31",
 "parkName":"China Lake Park",
-"streetAddress":"1811 S Shirley St",
+"streetAddress":"1701 S. Bennett",
 "city":"Tacoma",
 "zipCode":"98465",
 "county":"Pierce",
-"latitude":"4.730787590000000e+001",
-"longitude":"-1.225309605000000e+002",
-"feature":""
+"latitude":"47.2457803",
+"longitude":"-122.5092807",
+"feature":"Lake, Fishing, Walking Trail "
 },
 {
 "parkId":"32",
@@ -336,9 +336,9 @@
 "city":"Tacoma",
 "zipCode":"98405",
 "county":"Pierce",
-"latitude":"4.730787590000000e+001",
-"longitude":"-1.225309605000000e+002",
-"feature":""
+"latitude":"47.2473677",
+"longitude":"-122.4989232",
+"feature":"Walking Trail, Pond"
 },
 {
 "parkId":"33",
