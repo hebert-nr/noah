@@ -413,9 +413,9 @@
 "city":"Tacoma",
 "zipCode":"98407",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
-"feature":""
+"latitude":"47.2922447",
+"longitude":"-122.5093725",
+"feature":"Picnic Area, Playground, Soccer Field, Disabled Access, Toddler Playground, Basketball Court, Walking Trail"
 },
 {
 "parkId":"40",
@@ -424,9 +424,9 @@
 "city":"Tacoma",
 "zipCode":"98407",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
-"feature":""
+"latitude":"47.2970177",
+"longitude":"-122.5115069",
+"feature":"Playground, Picnic Area, Basketball Court"
 },
 {
 "parkId":"41",
@@ -435,9 +435,9 @@
 "city":"Tacoma",
 "zipCode":"98407",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
-"feature":""
+"latitude":"47.3072501",
+"longitude":"-122.5324085",
+"feature":"Fishing, Hiking, Walking Trail, Dock Access, Beach, Restroom, Multi-Purpose Rental Room, Disabled Access, Pond, Picnic Area, Covered Picnic Rental, Concessions, BBQ/Grill, Off Leash Dog Park, Zoo, Playground, Tennis Courts"
 },
 {
 "parkId":"42",
@@ -446,9 +446,9 @@
 "city":"Tacoma",
 "zipCode":"98407",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
-"feature":""
+"latitude":"47.2861029",
+"longitude":"-122.4874407",
+"feature":"Walking Trail, Beach, Dock Access, Picnic Area, Restroom"
 },
 {
 "parkId":"43",
@@ -457,9 +457,9 @@
 "city":"Tacoma",
 "zipCode":"98407",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
-"feature":""
+"latitude":"47.2766082",
+"longitude":"-122.4818975",
+"feature":"Stream/Creek, Walking Trail"
 },
 {
 "parkId":"44",
@@ -468,9 +468,9 @@
 "city":"Tacoma",
 "zipCode":"98402",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
-"feature":""
+"latitude":"47.2752627",
+"longitude":"-122.4736047",
+"feature":"Restroom, Walking Trail, Dock Access, Beach"
 },
 {
 "parkId":"45",
@@ -479,9 +479,9 @@
 "city":"Tacoma",
 "zipCode":"98403",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
-"feature":""
+"latitude":"47.2736529",
+"longitude":"-122.4748798",
+"feature":"Basketball Court, Walking Trail, Picnic Area, Playground"
 },
 {
 "parkId":"46",
@@ -490,9 +490,9 @@
 "city":"Tacoma",
 "zipCode":"98403",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
-"feature":""
+"latitude":"47.2748943",
+"longitude":"-122.4635799",
+"feature":"Picnic Area"
 },
 {
 "parkId":"47",
@@ -501,9 +501,9 @@
 "city":"Tacoma",
 "zipCode":"98402",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
-"feature":""
+"latitude":"47.2749093",
+"longitude":"-122.4609299",
+"feature":"Beach, Walking Trail, Multi-Purpose Room Rental, Disabiled Access"
 },
 {
 "parkId":"48",
@@ -512,8 +512,8 @@
 "city":"Tacoma",
 "zipCode":"98403",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2687942",
+"longitude":"-122.4575825",
 "feature":""
 },
 {
@@ -523,8 +523,8 @@
 "city":"Tacoma",
 "zipCode":"98405",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2559401",
+"longitude":"-122.4500033",
 "feature":""
 },
 {
@@ -534,8 +534,8 @@
 "city":"Tacoma",
 "zipCode":"98402",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2610656",
+"longitude":"-122.4395577",
 "feature":""
 },
 {
@@ -545,8 +545,8 @@
 "city":"Tacoma",
 "zipCode":"98405",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2554285",
+"longitude":"-122.4487604",
 "feature":""
 },
 {
@@ -567,8 +567,8 @@
 "city":"Tacoma",
 "zipCode":"98402",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2536126",
+"longitude":"-122.4529508",
 "feature":""
 },
 {
@@ -578,8 +578,8 @@
 "city":"Tacoma",
 "zipCode":"98402",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2551594",
+"longitude":"-122.4394471",
 "feature":""
 },
 {
@@ -600,8 +600,8 @@
 "city":"Tacoma",
 "zipCode":"98405",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2483271",
+"longitude":"-122.4551495",
 "feature":""
 },
 {
@@ -611,8 +611,8 @@
 "city":"Tacoma",
 "zipCode":"98402",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.243387",
+"longitude":"-122.4355513",
 "feature":""
 },
 {
@@ -622,8 +622,8 @@
 "city":"Tacoma",
 "zipCode":"98402",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2269677",
+"longitude":"-122.443672",
 "feature":""
 },
 {
@@ -633,8 +633,8 @@
 "city":"Tacoma",
 "zipCode":"98404",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2173822",
+"longitude":"-122.4195714",
 "feature":""
 },
 {
