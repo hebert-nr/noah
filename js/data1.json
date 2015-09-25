@@ -74,7 +74,7 @@
 "county":"King",
 "latitude":"47.3132602",
 "longitude":"-122.2213775",
-"feature":"Playground, Basketball Court, Multi-Purpose Room Rental, BBQ/Grill"
+"feature":"Playground, Basketball Court, Memorial/Monument, Multi-Purpose Room Rental, BBQ/Grill"
 },
 {
 "parkId":"9",
@@ -184,7 +184,7 @@
 "county":"Pierce",
 "latitude":"47.2093331",
 "longitude":"-122.3041438",
-"feature":" Baseball Field, Basketball Court, Concessions, Disabled Access, Multi-Purpose Room Rental, Playground, Restrooms, Tennis Court, Walking Trail"
+"feature":" Baseball Field, Community Center, Basketball Court, Concessions, Disabled Access, Multi-Purpose Room Rental, Playground, Restrooms, Tennis Court, Walking Trail"
 },
 {
 "parkId":"19",
@@ -200,7 +200,7 @@
 {
 "parkId":"20",
 "parkName":"Clarks Creek",
-"streetAddress":"~1901 7th Ave SW",
+"streetAddress":"1901 7th Ave SW",
 "city":"Puyallup",
 "zipCode":"98371",
 "county":"Pierce",
@@ -228,7 +228,7 @@
 "county":"Pierce",
 "latitude":"47.2310942",
 "longitude":",-122.3582427",
-"feature":"Baseball Field, Volleyball, Basketball Court, Restrooms, Playground, Disabled Access, Pond, Walking Trail"
+"feature":"Baseball Field, Museum, Volleyball, Basketball Court, Restrooms, Playground, Disabled Access, Pond, Walking Trail"
 },
 {
 "parkId":"23",
@@ -305,7 +305,7 @@
 "county":"Pierce",
 "latitude":"47.1705893",
 "longitude":"-122.5648762",
-"feature":"Off Leash Dog Park,  Covered Picnic Rental, Restrooms, Playground, Toddler Playground, Walking Trail, Baseball Field, Soccer Field, Picnic Area, BBQ/Grill, Fishing, Lake, Multi-Purpose Rental Room"
+"feature":"Off Leash Dog Park, Museum, Monument/Memorial, Covered Picnic Rental, Restrooms, Playground, Toddler Playground, Walking Trail, Baseball Field, Soccer Field, Picnic Area, BBQ/Grill, Fishing, Lake, Multi-Purpose Rental Room"
 },
 {
 "parkId":"30",
@@ -349,7 +349,7 @@
 "county":"Pierce",
 "latitude":"47.2409061",
 "longitude":"-122.49363",
-"feature":"Playground, Walking Trail, Pond, Concessions, Restrooms, Multi-Purpose Room Rental"
+"feature":"Playground, Walking Trail, Museum, Pond, Concessions, Restrooms, Multi-Purpose Room Rental"
 },
 {
 "parkId":"34",
@@ -371,7 +371,7 @@
 "county":"Pierce",
 "latitude":"47.2480979",
 "longitude":"-122.4814218",
-"feature":"Baseball Field, Playground, Walking Trail, Basketball Court, Spray Park, Restrooms, Toddler Playground, Disabled Access, Picnic Area,  Covered Picnic Rental "
+"feature":"Baseball Field, Community Garden, Playground, Walking Trail, Basketball Court, Spray Park, Restrooms, Toddler Playground, Disabled Access, Picnic Area,  Covered Picnic Rental "
 },
 {
 "parkId":"36",
@@ -382,7 +382,7 @@
 "county":"Pierce",
 "latitude":"47.2582352",
 "longitude":"-122.4909363",
-"feature":"Baseball Field, Basketball Court, Tennis Court, Spray Park, Picnic Area, Playground, Restrooms, Walking Trail"
+"feature":"Baseball Field, Community Center, Basketball Court, Tennis Court, Spray Park, Picnic Area, Playground, Restrooms, Walking Trail"
 },
 {
 "parkId":"37",
@@ -393,7 +393,7 @@
 "county":"Pierce",
 "latitude":"47.2572094",
 "longitude":"-122.5359984",
-"feature":"Walking Trail, Picnic Area, "
+"feature":"Walking Trail, Picnic Area, Memorial/Monument"
 },
 {
 "parkId":"38",
@@ -437,7 +437,7 @@
 "county":"Pierce",
 "latitude":"47.3072501",
 "longitude":"-122.5324085",
-"feature":"Fishing, Hiking, Walking Trail, Dock Access, Beach, Restroom, Multi-Purpose Rental Room, Disabled Access, Pond, Picnic Area, Covered Picnic Rental, Concessions, BBQ/Grill, Off Leash Dog Park, Zoo, Playground, Tennis Courts"
+"feature":"Fishing, Hiking, Memorial/Monument, Museum, Walking Trail, Dock Access, Beach, Restroom, Multi-Purpose Rental Room, Disabled Access, Pond, Picnic Area, Covered Picnic Rental, Concessions, BBQ/Grill, Off Leash Dog Park, Zoo, Playground, Tennis Courts"
 },
 {
 "parkId":"42",
@@ -481,7 +481,7 @@
 "county":"Pierce",
 "latitude":"47.2736529",
 "longitude":"-122.4748798",
-"feature":"Basketball Court, Walking Trail, Picnic Area, Playground"
+"feature":"Basketball Court, Museum, Walking Trail, Picnic Area, Playground"
 },
 {
 "parkId":"46",
@@ -492,7 +492,7 @@
 "county":"Pierce",
 "latitude":"47.2748943",
 "longitude":"-122.4635799",
-"feature":"Picnic Area"
+"feature":"Picnic Area, Monument/Memorial"
 },
 {
 "parkId":"47",
@@ -503,7 +503,7 @@
 "county":"Pierce",
 "latitude":"47.2749093",
 "longitude":"-122.4609299",
-"feature":"Beach, Walking Trail, Multi-Purpose Room Rental, Disabiled Access"
+"feature":"Beach, Walking Trail, Monument/Memorial, Multi-Purpose Room Rental, Disabiled Access"
 },
 {
 "parkId":"48",
@@ -644,8 +644,8 @@
 "city":"Tacoma",
 "zipCode":"98404",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2319195",
+"longitude":"-122.4057142",
 "feature":""
 },
 {
@@ -655,8 +655,8 @@
 "city":"Tacoma",
 "zipCode":"98409",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2104732",
+"longitude":"-122.4800813",
 "feature":""
 },
 {
@@ -666,8 +666,8 @@
 "city":"Tacoma",
 "zipCode":"98408",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.1962011",
+"longitude":"-122.4553889",
 "feature":""
 },
 {
@@ -677,19 +677,19 @@
 "city":"Tacoma",
 "zipCode":"98499",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.1725491",
+"longitude":"-122.5081472",
 "feature":""
 },
 {
 "parkId":"64",
 "parkName":"Wards Lake Park",
-"streetAddress":"84th St Ct S",
+"streetAddress":"2716 84th St S",
 "city":"Tacoma",
 "zipCode":"98499",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.1800726",
+"longitude":"-122.4725427",
 "feature":""
 },
 {
@@ -699,8 +699,8 @@
 "city":"Tacoma",
 "zipCode":"98499",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.1753283",
+"longitude":"-122.517029",
 "feature":""
 },
 {
@@ -710,8 +710,8 @@
 "city":"University Place",
 "zipCode":"98467",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.1984391",
+"longitude":"-122.5269932",
 "feature":""
 },
 {
@@ -721,41 +721,41 @@
 "city":"Lakewood",
 "zipCode":"98499",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.1621203",
+"longitude":"-122.508718",
 "feature":""
 },
 {
 "parkId":"68",
-"parkName":"Lakewood Gardens",
+"parkName":"Lakewold Gardens",
 "streetAddress":"12317 Gravelly Lake Dr SW",
 "city":"Lakewood",
 "zipCode":"98499",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.1461544",
+"longitude":"-122.5369351",
 "feature":""
 },
 {
 "parkId":"69",
 "parkName":"American Lake North Park",
-"streetAddress":"Vernon St and Veterans Dr SW",
+"streetAddress":"9222 Veterans Dr SW",
 "city":"Lakewood",
 "zipCode":"98498",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.1417587",
+"longitude":"-122.5585342",
 "feature":""
 },
 {
 "parkId":"70",
 "parkName":"Harry Todd Park",
-"streetAddress":"N Throne Lane SW",
+"streetAddress":"8928 N Thorne Lane SW",
 "city":"Lakewood",
 "zipCode":"98498",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.1283926",
+"longitude":"-122.5542268",
 "feature":""
 },
 {
@@ -765,30 +765,30 @@
 "city":"Lakewood",
 "zipCode":"98498",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.14998",
+"longitude":"-122.5726818",
 "feature":""
 },
 {
 "parkId":"72",
 "parkName":"Summer Cove",
 "streetAddress":"San Antonio Place",
-"city":"Fort Lewis",
+"city":"Joint Base Lewis McChord",
 "zipCode":"98433",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.1260018",
+"longitude":"-122.5792035",
 "feature":""
 },
 {
 "parkId":"73",
 "parkName":"Shoreline Park",
 "streetAddress":"Shoreline Beach Rd",
-"city":"Fort Lewis",
+"city":"Joint Base Lewis McChord",
 "zipCode":"98433",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.1158996",
+"longitude":"-122.5830758",
 "feature":""
 },
 {
@@ -798,8 +798,8 @@
 "city":"Steilacoom",
 "zipCode":"98388",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.1737945",
+"longitude":"-122.598803",
 "feature":""
 },
 {
@@ -809,8 +809,8 @@
 "city":"Steilacoom",
 "zipCode":"98388",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.1803633",
+"longitude":"-122.5889269",
 "feature":""
 },
 {
