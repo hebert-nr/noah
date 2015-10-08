@@ -1,0 +1,1972 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <element>
+      <city>Puyallup</city>
+      <county>Pierce</county>
+      <feature>BBQ/Grill, Disabled Access, Covered Picnic Rental, Hiking, Multi-Purpose Room Rental, Baseball Field, Picnic Area, Playground, Restrooms, Stream or Creek, Toddler Playground, Walking Trail, Waterfall</feature>
+      <latitude>47.171212</latitude>
+      <longitude>-122.2781745</longitude>
+      <parkId>2</parkId>
+      <parkName>Wildwood Park</parkName>
+      <streetAddress>1101 23rd Ave SE</streetAddress>
+      <zipCode>98374</zipCode>
+   </element>
+   <element>
+      <city>Bonney Lake</city>
+      <county>Pierce</county>
+      <feature>Baseball Field, Basketball Court, BBQ/Grill, Beach, Boat Launch, Concessions, Disabled Access, Dock Access, Fishing, Lake, Lighted Tennis Courts, Picnic Area, Playground, Restrooms, Skate Park, Soccer Field, Stage, Stream or Creek, Tennis Court, Volleyball, Walking Trail</feature>
+      <latitude>47.1906568</latitude>
+      <longitude>-122.3229222</longitude>
+      <parkId>3</parkId>
+      <parkName>Allan Yorke Park</parkName>
+      <streetAddress>7203 West Tapps Hwy E</streetAddress>
+      <zipCode>98391</zipCode>
+   </element>
+   <element>
+      <city>Puyallup</city>
+      <county>Pierce</county>
+      <feature>BBQ/Grill, Dock Access, Covered Picnic Rental, Juvenile Fishing, Picnic Area, Playground, Pond, Restrooms, Stream or Creek, Toddler Playground, Walking Trail</feature>
+      <latitude>47.186785</latitude>
+      <longitude>-122.3197859</longitude>
+      <parkId>4</parkId>
+      <parkName>DeCoursey Park</parkName>
+      <streetAddress>1998 7th Ave SW</streetAddress>
+      <zipCode>98371</zipCode>
+   </element>
+   <element>
+      <city>Enumclaw</city>
+      <county>King</county>
+      <feature>Playground, Disabled Access, Restrooms, Picnic Area, Baseball Field, Walking Trail, Basketball Court</feature>
+      <latitude>47.212209</latitude>
+      <longitude>-121.98630262</longitude>
+      <parkId>5</parkId>
+      <parkName>McFarland Park</parkName>
+      <streetAddress>1391 Chinook Ave</streetAddress>
+      <zipCode>98022</zipCode>
+   </element>
+   <element>
+      <city>Puyallup</city>
+      <county>Pierce</county>
+      <feature>Baseball Field, BBQ/Grill, Covered Picnic Rental, Disabled Access, Dock Access, Fishing, Lake, Picnic Area, Playground, Restrooms, Walking Trail</feature>
+      <latitude>47.1610869</latitude>
+      <longitude>-122.2841332</longitude>
+      <parkId>6</parkId>
+      <parkName>Bradley Lake Park</parkName>
+      <streetAddress>2791 7th St SE</streetAddress>
+      <zipCode>98374</zipCode>
+   </element>
+   <element>
+      <city>Spanaway</city>
+      <county>Pierce</county>
+      <feature>Access Fee, Basketball Court, BBQ/Grill, Beach, Boat Launch, Boat Rentals, Disabled Access, Dock Access, Fishing, Lake, Picnic Area, Playground, Restrooms, Tennis Court, Walking Trail</feature>
+      <latitude>47.1164915</latitude>
+      <longitude>-122.4441807</longitude>
+      <parkId>7</parkId>
+      <parkName>Spanaway Park</parkName>
+      <streetAddress>14905 Bresemann Blvd S</streetAddress>
+      <zipCode>98387</zipCode>
+   </element>
+   <element>
+      <city>Auburn</city>
+      <county>King</county>
+      <feature>Playground, Basketball Court, Memorial/Monument, Multi-Purpose Room Rental, BBQ/Grill</feature>
+      <latitude>47.3132602</latitude>
+      <longitude>-122.2213775</longitude>
+      <parkId>8</parkId>
+      <parkName>Veterans Memorial Park</parkName>
+      <streetAddress>411 E Street NE</streetAddress>
+      <zipCode>98002</zipCode>
+   </element>
+   <element>
+      <city>Auburn</city>
+      <county>King</county>
+      <feature>Ampitheater, Baseball Field, Covered Picnic Rental, Basketball Court, BBQ/Grill, Concessions, Disabled Access, Lighted Tennis Courts, Picnic Area, Playground, Restrooms, River, Soccer Field, Stage, Tennis Court, Volleyball, Walking Trail</feature>
+      <latitude>47.280441</latitude>
+      <longitude>-122.2054517</longitude>
+      <parkId>9</parkId>
+      <parkName>Auburn Game Farm Park</parkName>
+      <streetAddress>3030 R St SE</streetAddress>
+      <zipCode>98002</zipCode>
+   </element>
+   <element>
+      <city>Kent</city>
+      <county>King</county>
+      <feature>Multi-Purpose Room Rental, Picnic Area, Restrooms, Walking Trail, Pond, Stage, Ampitheater, Stream/Creek, Disabled Access</feature>
+      <latitude>47.3822848</latitude>
+      <longitude>-122.2226734</longitude>
+      <parkId>10</parkId>
+      <parkName>Mill Creek Earthworks Park</parkName>
+      <streetAddress>1000 Reiten Road</streetAddress>
+      <zipCode>98030</zipCode>
+   </element>
+   <element>
+      <city>Kent</city>
+      <county>King</county>
+      <feature>Boat Launch, Disabled Access, Disc golf, Dock Access, Fishing, Lake, Walking Trail</feature>
+      <latitude>47.3682825</latitude>
+      <longitude>-122.2721941</longitude>
+      <parkId>11</parkId>
+      <parkName>Lake Fenwick Park</parkName>
+      <streetAddress>25828 Lake Fenwick Rd S</streetAddress>
+      <zipCode>98032</zipCode>
+   </element>
+   <element>
+      <city>Federal Way</city>
+      <county>King</county>
+      <feature>Playground, Restrooms, Soccer Field, Baseball Field, Disabled Access, Walking Trail, Concessions</feature>
+      <latitude>47.3083286</latitude>
+      <longitude>-122.3202592</longitude>
+      <parkId>12</parkId>
+      <parkName>Celebration Park</parkName>
+      <streetAddress>1095 S. 324th St</streetAddress>
+      <zipCode>98003</zipCode>
+   </element>
+   <element>
+      <city>Bonney Lake</city>
+      <county>Pierce</county>
+      <feature>Access Fee, Beach, Boat Launch, Concessions, Disabled Access, Dock Access, Lake, Picnic Area, Restrooms</feature>
+      <latitude>47.2420453</latitude>
+      <longitude>-122.1678951</longitude>
+      <parkId>13</parkId>
+      <parkName>Lake Tapps Park</parkName>
+      <streetAddress>198th Ave E</streetAddress>
+      <zipCode>98391</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature>Baseball Field,  Covered Picnic Rental, Basketball Court, BBQ/Grill, Beach, Disabled Access, Excersize Path, Lighted Tennis Courts, Multi-Purpose Room Rental, Picnic Area, Playground, Pond, Restrooms, Spray Park, Tennis Court, Toddler Playground, Walking Trail</feature>
+      <latitude>47.2531536</latitude>
+      <longitude>-122.5495709</longitude>
+      <parkId>14</parkId>
+      <parkName>Titlow Park</parkName>
+      <streetAddress>8425 6th Avenue</streetAddress>
+      <zipCode>98456</zipCode>
+   </element>
+   <element>
+      <city>Puyallup</city>
+      <county>Pierce</county>
+      <feature>Baseball Field, Disabled Access, Picnic Area, Playground, Restrooms, Walking Trail</feature>
+      <latitude>47.199963</latitude>
+      <longitude>-122.315297</longitude>
+      <parkId>15</parkId>
+      <parkName>Sam Peach Park</parkName>
+      <streetAddress>1621 10th Ave NW</streetAddress>
+      <zipCode>98371</zipCode>
+   </element>
+   <element>
+      <city>Puyallup</city>
+      <county>Pierce</county>
+      <feature>Picnic Area, Playground, Restrooms</feature>
+      <latitude>47.1953972</latitude>
+      <longitude>-122.2926226</longitude>
+      <parkId>16</parkId>
+      <parkName>Grayland Park</parkName>
+      <streetAddress>601 N. Meridian</streetAddress>
+      <zipCode>98371</zipCode>
+   </element>
+   <element>
+      <city>Puyallup</city>
+      <county>Pierce</county>
+      <feature>Disabled Access, Multi-Purpose Room Rental, Playground, Restrooms, Spray Park, Stage, Toddler Playground</feature>
+      <latitude>47.1893184</latitude>
+      <longitude>-122.2948858</longitude>
+      <parkId>17</parkId>
+      <parkName>Pioneer Park</parkName>
+      <streetAddress>Elm Pl &amp; S. Meridian</streetAddress>
+      <zipCode>98371</zipCode>
+   </element>
+   <element>
+      <city>Puyallup</city>
+      <county>Pierce</county>
+      <feature>Baseball Field, Community Center, Basketball Court, Concessions, Disabled Access, Multi-Purpose Room Rental, Playground, Restrooms, Tennis Court, Walking Trail</feature>
+      <latitude>47.2093331</latitude>
+      <longitude>-122.3041438</longitude>
+      <parkId>18</parkId>
+      <parkName>Puyallup Valley Sports Complex/Recreation Center</parkName>
+      <streetAddress>808 Valley Ave NW</streetAddress>
+      <zipCode>98371</zipCode>
+   </element>
+   <element>
+      <city>Puyallup</city>
+      <county>Pierce</county>
+      <feature>Baseball Field, Basketball Courts, Playground, Picnic Area, Disabled Access</feature>
+      <latitude>47.1661639</latitude>
+      <longitude>-122.2594069</longitude>
+      <parkId>19</parkId>
+      <parkName>Rainier Woods Park</parkName>
+      <streetAddress>2310 Cherokee Blvd.</streetAddress>
+      <zipCode>98371</zipCode>
+   </element>
+   <element>
+      <city>Puyallup</city>
+      <county>Pierce</county>
+      <feature>Baseball Field, Disabled Access, Excersize Path, Hiking, Off Leash Dog Park, Restrooms, Stream or Creek, Tennis Court, Walking Trail</feature>
+      <latitude>47.1820015</latitude>
+      <longitude>-122.3197859</longitude>
+      <parkId>20</parkId>
+      <parkName>Clarks Creek</parkName>
+      <streetAddress>1901 7th Ave SW</streetAddress>
+      <zipCode>98371</zipCode>
+   </element>
+   <element>
+      <city>Puyallup</city>
+      <county>Pierce</county>
+      <feature>Disabled Access, Restrooms, River, Skate Park, Walking Trail</feature>
+      <latitude>47.2021308</latitude>
+      <longitude>-122.2976782</longitude>
+      <parkId>21</parkId>
+      <parkName>Puyallup Skatepark</parkName>
+      <streetAddress>1299 4th St NW</streetAddress>
+      <zipCode>98371</zipCode>
+   </element>
+   <element>
+      <city>Fife</city>
+      <county>Pierce</county>
+      <feature>Baseball Field, Museum, Volleyball, Basketball Court, Restrooms, Playground, Disabled Access, Pond, Walking Trail</feature>
+      <latitude>47.2310942</latitude>
+      <longitude>,-122.3582427</longitude>
+      <parkId>22</parkId>
+      <parkName>Dacca Park Athletic Fields</parkName>
+      <streetAddress>2785 5th Ave E</streetAddress>
+      <zipCode>98424</zipCode>
+   </element>
+   <element>
+      <city>Fife</city>
+      <county>Pierce</county>
+      <feature>Playground, Toddler Playground, Basketball Court, Picnic Area, Disabled Access</feature>
+      <latitude>47.232003</latitude>
+      <longitude>-122.350013</longitude>
+      <parkId>23</parkId>
+      <parkName>Wedge Park</parkName>
+      <streetAddress>5920 Valley Ave E</streetAddress>
+      <zipCode>98424</zipCode>
+   </element>
+   <element>
+      <city>Fife</city>
+      <county>Pierce</county>
+      <feature>Playground, Picnic Area, Pool</feature>
+      <latitude>47.2383371</latitude>
+      <longitude>-122.3554069</longitude>
+      <parkId>24</parkId>
+      <parkName>Colburn Park</parkName>
+      <streetAddress>5506 20th St E</streetAddress>
+      <zipCode>98424</zipCode>
+   </element>
+   <element>
+      <city>Fife</city>
+      <county>Pierce</county>
+      <feature>Playground, Skate Park, Picnic Area, Walking Trail, Restroom, Basketball Court, Toddler Playground</feature>
+      <latitude>47.225810</latitude>
+      <longitude>-122.343951</longitude>
+      <parkId>25</parkId>
+      <parkName>Five Acre Park</parkName>
+      <streetAddress>6335 Radiance Blvd E</streetAddress>
+      <zipCode>98424</zipCode>
+   </element>
+   <element>
+      <city>Fife</city>
+      <county>Pierce</county>
+      <feature>Stream/Creek, Pond, Walking Trail</feature>
+      <latitude>47.250104</latitude>
+      <longitude>-122.346852</longitude>
+      <parkId>26</parkId>
+      <parkName>Hylebos Nature Area</parkName>
+      <streetAddress>6125 8th St E</streetAddress>
+      <zipCode>98424</zipCode>
+   </element>
+   <element>
+      <city>Eatonville</city>
+      <county>Pierce</county>
+      <feature>Basketball Court, Restroom</feature>
+      <latitude>46.8699979</latitude>
+      <longitude>-122.2724811</longitude>
+      <parkId>27</parkId>
+      <parkName>Glacier View Park</parkName>
+      <streetAddress>Fir Ave N</streetAddress>
+      <zipCode>98328</zipCode>
+   </element>
+   <element>
+      <city>Ashford</city>
+      <county>Pierce</county>
+      <feature>Playground, Restroom, Disabled Access, Picnic Area, Walking Trail, Pond, Ampitheater</feature>
+      <latitude>46.7614465</latitude>
+      <longitude>-122.0397065</longitude>
+      <parkId>28</parkId>
+      <parkName>Ashford County Park</parkName>
+      <streetAddress>29801 State Route 706</streetAddress>
+      <zipCode>98304</zipCode>
+   </element>
+   <element>
+      <city>Lakewood</city>
+      <county>Pierce</county>
+      <feature>Off Leash Dog Park, Museum, Monument/Memorial, Covered Picnic Rental, Restrooms, Playground, Toddler Playground, Walking Trail, Baseball Field, Soccer Field, Picnic Area, BBQ/Grill, Fishing, Lake, Multi-Purpose Rental Room</feature>
+      <latitude>47.1705893</latitude>
+      <longitude>-122.5648762</longitude>
+      <parkId>29</parkId>
+      <parkName>Fort Steilacoom Park</parkName>
+      <streetAddress>.714 87th Ave S</streetAddress>
+      <zipCode>98498</zipCode>
+   </element>
+   <element>
+      <city>University Place</city>
+      <county>Pierce</county>
+      <feature>Playground, Toddler Playground, Baseball Field, Restroom, Picnic Area, Covered Picnic Rental</feature>
+      <latitude>47.2419648</latitude>
+      <longitude>-122.5336054</longitude>
+      <parkId>30</parkId>
+      <parkName>Sunset Terrace Park</parkName>
+      <streetAddress>Seaview Ave W</streetAddress>
+      <zipCode>98466</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature>Lake, Fishing, Walking Trail</feature>
+      <latitude>47.2457803</latitude>
+      <longitude>-122.5092807</longitude>
+      <parkId>31</parkId>
+      <parkName>China Lake Park</parkName>
+      <streetAddress>1701 S. Bennett</streetAddress>
+      <zipCode>98465</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature>Walking Trail, Pond</feature>
+      <latitude>47.2473677</latitude>
+      <longitude>-122.4989232</longitude>
+      <parkId>32</parkId>
+      <parkName>Delong Park</parkName>
+      <streetAddress>4702 S 12th Place</streetAddress>
+      <zipCode>98405</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature>Playground, Walking Trail, Museum, Pond, Concessions, Restrooms, Multi-Purpose Room Rental</feature>
+      <latitude>47.2409061</latitude>
+      <longitude>-122.49363</longitude>
+      <parkId>33</parkId>
+      <parkName>Snake Lake Park/Tacoma Nature Center</parkName>
+      <streetAddress>1919 S Tyler St</streetAddress>
+      <zipCode>98405</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature>Baseball Field, Restrooms, Disabled Access</feature>
+      <latitude>47.2419434</latitude>
+      <longitude>-122.496709</longitude>
+      <parkId>34</parkId>
+      <parkName>Heidelberg-Davis Park</parkName>
+      <streetAddress>South 19th St</streetAddress>
+      <zipCode>98405</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature>Baseball Field, Community Garden, Playground, Walking Trail, Basketball Court, Spray Park, Restrooms, Toddler Playground, Disabled Access, Picnic Area,  Covered Picnic Rental</feature>
+      <latitude>47.2480979</latitude>
+      <longitude>-122.4814218</longitude>
+      <parkId>35</parkId>
+      <parkName>Franklin Park</parkName>
+      <streetAddress>S Puget Sound Ave</streetAddress>
+      <zipCode>98405</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature>Baseball Field, Community Center, Basketball Court, Tennis Court, Spray Park, Picnic Area, Playground, Restrooms, Walking Trail</feature>
+      <latitude>47.2582352</latitude>
+      <longitude>-122.4909363</longitude>
+      <parkId>36</parkId>
+      <parkName>Jefferson Park</parkName>
+      <streetAddress>North Monroe St</streetAddress>
+      <zipCode>98406</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature>Walking Trail, Picnic Area, Memorial/Monument</feature>
+      <latitude>47.2572094</latitude>
+      <longitude>-122.5359984</longitude>
+      <parkId>37</parkId>
+      <parkName>War Memorial Park</parkName>
+      <streetAddress>7100 6th Ave</streetAddress>
+      <zipCode>98406</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature>Baseball Field, Basketball Court, Playground, Tennis Court, Walking Path, Restroom, Disabled Access, Toddler Playground, Picnic Area</feature>
+      <latitude>47.2809054</latitude>
+      <longitude>-122.5187874</longitude>
+      <parkId>38</parkId>
+      <parkName>Vassault Playfield</parkName>
+      <streetAddress>6298 N 37th St</streetAddress>
+      <zipCode>98407</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature>Picnic Area, Playground, Soccer Field, Disabled Access, Toddler Playground, Basketball Court, Walking Trail</feature>
+      <latitude>47.2922447</latitude>
+      <longitude>-122.5093725</longitude>
+      <parkId>39</parkId>
+      <parkName>Baltimore Park</parkName>
+      <streetAddress>.716 N Baltimore St</streetAddress>
+      <zipCode>98407</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature>Playground, Picnic Area, Basketball Court</feature>
+      <latitude>47.2970177</latitude>
+      <longitude>-122.5115069</longitude>
+      <parkId>40</parkId>
+      <parkName>Rust Park</parkName>
+      <streetAddress>5405 N Commercial St</streetAddress>
+      <zipCode>98407</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature>Fishing, Hiking, Memorial/Monument, Museum, Walking Trail, Dock Access, Beach, Restroom, Multi-Purpose Rental Room, Disabled Access, Pond, Picnic Area, Covered Picnic Rental, Concessions, BBQ/Grill, Off Leash Dog Park, Zoo, Playground, Tennis Courts</feature>
+      <latitude>47.3072501</latitude>
+      <longitude>-122.5324085</longitude>
+      <parkId>41</parkId>
+      <parkName>Point Defiance Park</parkName>
+      <streetAddress>5400 N Pearl St</streetAddress>
+      <zipCode>98407</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature>Walking Trail, Beach, Dock Access, Picnic Area, Restroom</feature>
+      <latitude>47.2861029</latitude>
+      <longitude>-122.4874407</longitude>
+      <parkId>42</parkId>
+      <parkName>Marine Park</parkName>
+      <streetAddress>Ruston Way</streetAddress>
+      <zipCode>98407</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature>Stream/Creek, Walking Trail</feature>
+      <latitude>47.2766082</latitude>
+      <longitude>-122.4818975</longitude>
+      <parkId>43</parkId>
+      <parkName>Puget Creek Natural Area</parkName>
+      <streetAddress>3100 N Proctor St</streetAddress>
+      <zipCode>98407</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature>Restroom, Walking Trail, Dock Access, Beach</feature>
+      <latitude>47.2752627</latitude>
+      <longitude>-122.4736047</longitude>
+      <parkId>44</parkId>
+      <parkName>Dickman Mill Park</parkName>
+      <streetAddress>2423 Ruston Way</streetAddress>
+      <zipCode>98402</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature>Basketball Court, Museum, Walking Trail, Picnic Area, Playground</feature>
+      <latitude>47.2736529</latitude>
+      <longitude>-122.4748798</longitude>
+      <parkId>45</parkId>
+      <parkName>Old Town Park</parkName>
+      <streetAddress>2350 N 30th St</streetAddress>
+      <zipCode>98403</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature>Picnic Area, Monument/Memorial</feature>
+      <latitude>47.2748943</latitude>
+      <longitude>-122.4635799</longitude>
+      <parkId>46</parkId>
+      <parkName>Gateway Park</parkName>
+      <streetAddress>2101</streetAddress>
+      <zipCode>98403</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature>Beach, Walking Trail, Monument/Memorial, Multi-Purpose Room Rental, Disabiled Access</feature>
+      <latitude>47.2749093</latitude>
+      <longitude>-122.4609299</longitude>
+      <parkId>47</parkId>
+      <parkName>Tacoma Chinese Garden and Reconciliation Park</parkName>
+      <streetAddress>1741 N Schuster Parkway</streetAddress>
+      <zipCode>98402</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude>47.2687942</latitude>
+      <longitude>-122.4575825</longitude>
+      <parkId>48</parkId>
+      <parkName>Garfield Park</parkName>
+      <streetAddress>N Burough Rd</streetAddress>
+      <zipCode>98403</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude>47.2559401</latitude>
+      <longitude>-122.4500033</longitude>
+      <parkId>49</parkId>
+      <parkName>Wright Park</parkName>
+      <streetAddress>501 S I St</streetAddress>
+      <zipCode>98405</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude>47.2610656</latitude>
+      <longitude>-122.4395577</longitude>
+      <parkId>50</parkId>
+      <parkName>Theas Park</parkName>
+      <streetAddress>405 Dock St</streetAddress>
+      <zipCode>98402</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude>47.2554285</latitude>
+      <longitude>-122.4487604</longitude>
+      <parkId>51</parkId>
+      <parkName>Neighbors Park</parkName>
+      <streetAddress>722 S I St</streetAddress>
+      <zipCode>98405</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>52</parkId>
+      <parkName>Peoples Park</parkName>
+      <streetAddress>900 Martin Luther King Jr Way</streetAddress>
+      <zipCode>98405</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude>47.2536126</latitude>
+      <longitude>-122.4529508</longitude>
+      <parkId>53</parkId>
+      <parkName>Firemans Park</parkName>
+      <streetAddress>A St</streetAddress>
+      <zipCode>98402</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude>47.2551594</latitude>
+      <longitude>-122.4394471</longitude>
+      <parkId>54</parkId>
+      <parkName>Frost Park</parkName>
+      <streetAddress>S 9th St</streetAddress>
+      <zipCode>98402</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>55</parkId>
+      <parkName>Peck Field</parkName>
+      <streetAddress>4702 s 19th St</streetAddress>
+      <zipCode>98405</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude>47.2483271</latitude>
+      <longitude>-122.4551495</longitude>
+      <parkId>56</parkId>
+      <parkName>Ferry Park</parkName>
+      <streetAddress>1410 14th St</streetAddress>
+      <zipCode>98405</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude>47.243387</latitude>
+      <longitude>-122.4355513</longitude>
+      <parkId>57</parkId>
+      <parkName>Don Pugnetti Park</parkName>
+      <streetAddress>2085 Pacific Ave</streetAddress>
+      <zipCode>98402</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude>47.2269677</latitude>
+      <longitude>-122.443672</longitude>
+      <parkId>58</parkId>
+      <parkName>Lincoln Park</parkName>
+      <streetAddress>747 Market St</streetAddress>
+      <zipCode>98402</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude>47.2173822</latitude>
+      <longitude>-122.4195714</longitude>
+      <parkId>59</parkId>
+      <parkName>Verlo Playfield</parkName>
+      <streetAddress>907 Upper Park St</streetAddress>
+      <zipCode>98404</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude>47.2319195</latitude>
+      <longitude>-122.4057142</longitude>
+      <parkId>60</parkId>
+      <parkName>Portland Avenue Park</parkName>
+      <streetAddress>3513 Portland Ave</streetAddress>
+      <zipCode>98404</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude>47.2104732</latitude>
+      <longitude>-122.4800813</longitude>
+      <parkId>61</parkId>
+      <parkName>South Park</parkName>
+      <streetAddress>S Puget Sound Ave</streetAddress>
+      <zipCode>98409</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude>47.1962011</latitude>
+      <longitude>-122.4553889</longitude>
+      <parkId>62</parkId>
+      <parkName>Wapato Park</parkName>
+      <streetAddress>6500 S Sheridan Ave</streetAddress>
+      <zipCode>98408</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude>47.1725491</latitude>
+      <longitude>-122.5081472</longitude>
+      <parkId>63</parkId>
+      <parkName>Seeley Lake Park</parkName>
+      <streetAddress>9112 Lakewood Dr SW</streetAddress>
+      <zipCode>98499</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude>47.1800726</latitude>
+      <longitude>-122.4725427</longitude>
+      <parkId>64</parkId>
+      <parkName>Wards Lake Park</parkName>
+      <streetAddress>2716 84th St S</streetAddress>
+      <zipCode>98499</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude>47.1753283</latitude>
+      <longitude>-122.517029</longitude>
+      <parkId>65</parkId>
+      <parkName>Skate Park</parkName>
+      <streetAddress>Fairlawn Rd SW</streetAddress>
+      <zipCode>98499</zipCode>
+   </element>
+   <element>
+      <city>University Place</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude>47.1984391</latitude>
+      <longitude>-122.5269932</longitude>
+      <parkId>66</parkId>
+      <parkName>Kobayashi Park</parkName>
+      <streetAddress>Kobayashi Park Dr</streetAddress>
+      <zipCode>98467</zipCode>
+   </element>
+   <element>
+      <city>Lakewood</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude>47.1621203</latitude>
+      <longitude>-122.508718</longitude>
+      <parkId>67</parkId>
+      <parkName>Lakewood Active Park</parkName>
+      <streetAddress>10506 Russell Rd SW</streetAddress>
+      <zipCode>98499</zipCode>
+   </element>
+   <element>
+      <city>Lakewood</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude>47.1461544</latitude>
+      <longitude>-122.5369351</longitude>
+      <parkId>68</parkId>
+      <parkName>Lakewold Gardens</parkName>
+      <streetAddress>12317 Gravelly Lake Dr SW</streetAddress>
+      <zipCode>98499</zipCode>
+   </element>
+   <element>
+      <city>Lakewood</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude>47.1417587</latitude>
+      <longitude>-122.5585342</longitude>
+      <parkId>69</parkId>
+      <parkName>American Lake North Park</parkName>
+      <streetAddress>9222 Veterans Dr SW</streetAddress>
+      <zipCode>98498</zipCode>
+   </element>
+   <element>
+      <city>Lakewood</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude>47.1283926</latitude>
+      <longitude>-122.5542268</longitude>
+      <parkId>70</parkId>
+      <parkName>Harry Todd Park</parkName>
+      <streetAddress>8928 N Thorne Lane SW</streetAddress>
+      <zipCode>98498</zipCode>
+   </element>
+   <element>
+      <city>Lakewood</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude>47.14998</latitude>
+      <longitude>-122.5726818</longitude>
+      <parkId>71</parkId>
+      <parkName>Forest Park</parkName>
+      <streetAddress>11603 Farwest Dr SW</streetAddress>
+      <zipCode>98498</zipCode>
+   </element>
+   <element>
+      <city>Joint Base Lewis McChord</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude>47.1260018</latitude>
+      <longitude>-122.5792035</longitude>
+      <parkId>72</parkId>
+      <parkName>Summer Cove</parkName>
+      <streetAddress>San Antonio Place</streetAddress>
+      <zipCode>98433</zipCode>
+   </element>
+   <element>
+      <city>Joint Base Lewis McChord</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude>47.1158996</latitude>
+      <longitude>-122.5830758</longitude>
+      <parkId>73</parkId>
+      <parkName>Shoreline Park</parkName>
+      <streetAddress>Shoreline Beach Rd</streetAddress>
+      <zipCode>98433</zipCode>
+   </element>
+   <element>
+      <city>Steilacoom</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude>47.1737945</latitude>
+      <longitude>-122.598803</longitude>
+      <parkId>74</parkId>
+      <parkName>Pioneer Orchard Park</parkName>
+      <streetAddress>1700 Commercial St</streetAddress>
+      <zipCode>98388</zipCode>
+   </element>
+   <element>
+      <city>Steilacoom</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude>47.1803633</latitude>
+      <longitude>-122.5889269</longitude>
+      <parkId>75</parkId>
+      <parkName>Sunnyside Beach Park</parkName>
+      <streetAddress>Chambers Creek Rd W</streetAddress>
+      <zipCode>98388</zipCode>
+   </element>
+   <element>
+      <city>University Place</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>76</parkId>
+      <parkName>Chambers Creek Properties Dog Park</parkName>
+      <streetAddress>Chambers Creek Properties</streetAddress>
+      <zipCode>98467</zipCode>
+   </element>
+   <element>
+      <city>Parkland</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>77</parkId>
+      <parkName>Bresemann Forest</parkName>
+      <streetAddress>8th Ave Ct S</streetAddress>
+      <zipCode>98444</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>78</parkId>
+      <parkName>Sprinker Recreation Center</parkName>
+      <streetAddress>14824 C St S</streetAddress>
+      <zipCode>98444</zipCode>
+   </element>
+   <element>
+      <city>Parkland</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>79</parkId>
+      <parkName>Mayfair County Park</parkName>
+      <streetAddress>13th Ave Ct E</streetAddress>
+      <zipCode>98445</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>80</parkId>
+      <parkName>Fernhill Park</parkName>
+      <streetAddress>502 S 88th St</streetAddress>
+      <zipCode>98444</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>81</parkId>
+      <parkName>Stewart Heights Park</parkName>
+      <streetAddress>402 E 56th St</streetAddress>
+      <zipCode>98404</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>82</parkId>
+      <parkName>Gas Station Park</parkName>
+      <streetAddress>4802 S Park Ave</streetAddress>
+      <zipCode>98408</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>83</parkId>
+      <parkName>Dawson Playfield</parkName>
+      <streetAddress>9000 Portland Ave E</streetAddress>
+      <zipCode>98445</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>84</parkId>
+      <parkName>Cloverdale Park</parkName>
+      <streetAddress>1635 E 59th St</streetAddress>
+      <zipCode>98404</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>85</parkId>
+      <parkName>Swan Creek County Park</parkName>
+      <streetAddress>2820 Pioneer Way</streetAddress>
+      <zipCode>98404</zipCode>
+   </element>
+   <element>
+      <city>South Hill</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>86</parkId>
+      <parkName>South Hill Park</parkName>
+      <streetAddress>144th St E</streetAddress>
+      <zipCode>98.73</zipCode>
+   </element>
+   <element>
+      <city>Orting</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>87</parkId>
+      <parkName>Orting Dog Park</parkName>
+      <streetAddress>Levee Rd SW</streetAddress>
+      <zipCode>98360</zipCode>
+   </element>
+   <element>
+      <city>Orting</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>88</parkId>
+      <parkName>Whitehawk Park</parkName>
+      <streetAddress>Orting Ave NW</streetAddress>
+      <zipCode>98360</zipCode>
+   </element>
+   <element>
+      <city>Orting</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>89</parkId>
+      <parkName>Orting Park - North, Central and South</parkName>
+      <streetAddress>Van Scoyoc Ave SW</streetAddress>
+      <zipCode>98360</zipCode>
+   </element>
+   <element>
+      <city>Orting</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>90</parkId>
+      <parkName>Orting Skate Park</parkName>
+      <streetAddress>Olive St SE</streetAddress>
+      <zipCode>98360</zipCode>
+   </element>
+   <element>
+      <city>Orting</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>91</parkId>
+      <parkName>Orting Lyons Club</parkName>
+      <streetAddress>19725 Orville Rd E</streetAddress>
+      <zipCode>98360</zipCode>
+   </element>
+   <element>
+      <city>Buckley</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>92</parkId>
+      <parkName>VanderHoof Park</parkName>
+      <streetAddress>SR 410</streetAddress>
+      <zipCode>98321</zipCode>
+   </element>
+   <element>
+      <city>Buckley</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>93</parkId>
+      <parkName>Thunderbird Park</parkName>
+      <streetAddress>SR 410</streetAddress>
+      <zipCode>98321</zipCode>
+   </element>
+   <element>
+      <city>Buckley</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>94</parkId>
+      <parkName>A Street Park</parkName>
+      <streetAddress>875 Jefferson St</streetAddress>
+      <zipCode>98321</zipCode>
+   </element>
+   <element>
+      <city>Buckley</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>95</parkId>
+      <parkName>Elk Heights Park</parkName>
+      <streetAddress>Davis St</streetAddress>
+      <zipCode>98321</zipCode>
+   </element>
+   <element>
+      <city>Orting</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>96</parkId>
+      <parkName>Mountain View Ave Park</parkName>
+      <streetAddress>600 Mountain View Ave</streetAddress>
+      <zipCode>98321</zipCode>
+   </element>
+   <element>
+      <city>South Prairie</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>97</parkId>
+      <parkName>Third Street Park</parkName>
+      <streetAddress>206 3rd St SW</streetAddress>
+      <zipCode>98321</zipCode>
+   </element>
+   <element>
+      <city>Bonney Lake</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>98</parkId>
+      <parkName>Cedarview Park</parkName>
+      <streetAddress>9301 208th Ave E</streetAddress>
+      <zipCode>98391</zipCode>
+   </element>
+   <element>
+      <city>Bonney Lake</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>99</parkId>
+      <parkName>Ken Simmons Park</parkName>
+      <streetAddress>18200 74th St E</streetAddress>
+      <zipCode>98391</zipCode>
+   </element>
+   <element>
+      <city>Bonney Lake</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>100</parkId>
+      <parkName>Madrona Park</parkName>
+      <streetAddress>.730 182nd Ave E</streetAddress>
+      <zipCode>98391</zipCode>
+   </element>
+   <element>
+      <city>Bonney Lake</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>101</parkId>
+      <parkName>Victor Falls Park</parkName>
+      <streetAddress>18212 Rhodes Lake Rd E</streetAddress>
+      <zipCode>98391</zipCode>
+   </element>
+   <element>
+      <city>Bonney Lake</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>102</parkId>
+      <parkName>Viking Park</parkName>
+      <streetAddress>18902 82nd St E</streetAddress>
+      <zipCode>98391</zipCode>
+   </element>
+   <element>
+      <city>Bonney Lake</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>103</parkId>
+      <parkName>Sprout Holler</parkName>
+      <streetAddress>Village Parkway E</streetAddress>
+      <zipCode>98391</zipCode>
+   </element>
+   <element>
+      <city>Bonney Lake</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>104</parkId>
+      <parkName>The Edge</parkName>
+      <streetAddress>Canyon View Blvd</streetAddress>
+      <zipCode>98391</zipCode>
+   </element>
+   <element>
+      <city>Puyallup</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>105</parkId>
+      <parkName>Manorwood Park</parkName>
+      <streetAddress>2310 Manorwood Dr</streetAddress>
+      <zipCode>98374</zipCode>
+   </element>
+   <element>
+      <city>Sumner</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>106</parkId>
+      <parkName>Riverside County Park</parkName>
+      <streetAddress>78th St E</streetAddress>
+      <zipCode>98390</zipCode>
+   </element>
+   <element>
+      <city>Sumner</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>107</parkId>
+      <parkName>Loyalty Park</parkName>
+      <streetAddress>1300 Park St</streetAddress>
+      <zipCode>98390</zipCode>
+   </element>
+   <element>
+      <city>Sumner</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>108</parkId>
+      <parkName>Daffodil Valley Sports Complex</parkName>
+      <streetAddress>15225 Washington St E</streetAddress>
+      <zipCode>98390</zipCode>
+   </element>
+   <element>
+      <city>Sumner</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>109</parkId>
+      <parkName>Reuben A. Knoblauch Heritage Park</parkName>
+      <streetAddress>914 Kincaid Ave</streetAddress>
+      <zipCode>98391</zipCode>
+   </element>
+   <element>
+      <city>Sumner</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>110</parkId>
+      <parkName>Rainier View Park</parkName>
+      <streetAddress>15603 Meade McCumber Rd</streetAddress>
+      <zipCode>98390</zipCode>
+   </element>
+   <element>
+      <city>Sumner</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>111</parkId>
+      <parkName>Seibenthaller Park</parkName>
+      <streetAddress>1602 Bonney Ave</streetAddress>
+      <zipCode>98390</zipCode>
+   </element>
+   <element>
+      <city>Orting</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>112</parkId>
+      <parkName>Callistoga Park</parkName>
+      <streetAddress>Skinner Rd</streetAddress>
+      <zipCode>98360</zipCode>
+   </element>
+   <element>
+      <city>Gig Harbor</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>113</parkId>
+      <parkName>Tacoma Narrows Park</parkName>
+      <streetAddress>1502 Lucille Parkway NW</streetAddress>
+      <zipCode>98335</zipCode>
+   </element>
+   <element>
+      <city>Gig Harbor</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>114</parkId>
+      <parkName>Sanskie Brothers Park</parkName>
+      <streetAddress>3211 Harborview Dr</streetAddress>
+      <zipCode>98335</zipCode>
+   </element>
+   <element>
+      <city>Gig Harbor</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>115</parkId>
+      <parkName>Civic Center Green</parkName>
+      <streetAddress>3510 Grandview St</streetAddress>
+      <zipCode>98335</zipCode>
+   </element>
+   <element>
+      <city>Gig Harbor</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>116</parkId>
+      <parkName>Adam Tallman Park</parkName>
+      <streetAddress>6626 Wagner Way NW</streetAddress>
+      <zipCode>98335</zipCode>
+   </element>
+   <element>
+      <city>Gig Harbor</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>117</parkId>
+      <parkName>Wollochet Bay Estuary Park</parkName>
+      <streetAddress>Wollochet Drive NW</streetAddress>
+      <zipCode>98335</zipCode>
+   </element>
+   <element>
+      <city>Fox Island</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>118</parkId>
+      <parkName>Fox Island Sand Spit</parkName>
+      <streetAddress>Bella Bella Drive FI</streetAddress>
+      <zipCode>98333</zipCode>
+   </element>
+   <element>
+      <city>Fox Island</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>119</parkId>
+      <parkName>Fox Island Fishing Pier</parkName>
+      <streetAddress>1453 Ozette Dr FI</streetAddress>
+      <zipCode>98333</zipCode>
+   </element>
+   <element>
+      <city>Gig Harbor</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>120</parkId>
+      <parkName>Hales Pass Park</parkName>
+      <streetAddress>3607 Ray Nash Dr NW</streetAddress>
+      <zipCode>98335</zipCode>
+   </element>
+   <element>
+      <city>Gig Harbor</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>121</parkId>
+      <parkName>Kopachuk State Park</parkName>
+      <streetAddress>1.712 56th St NW</streetAddress>
+      <zipCode>98335</zipCode>
+   </element>
+   <element>
+      <city>Gig Harbor</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>122</parkId>
+      <parkName>Cutts Island State Park</parkName>
+      <streetAddress>Cutts Island</streetAddress>
+      <zipCode>98335</zipCode>
+   </element>
+   <element>
+      <city>Gig Harbor</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>123</parkId>
+      <parkName>Kenneth Leo Marvin Veterans Memorial Park</parkName>
+      <streetAddress>3580 50th St Ct NW</streetAddress>
+      <zipCode>98335</zipCode>
+   </element>
+   <element>
+      <city>Gig Harbor</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>124</parkId>
+      <parkName>City Park at Crescent Creek</parkName>
+      <streetAddress>3303 Vernhardson St</streetAddress>
+      <zipCode>98332</zipCode>
+   </element>
+   <element>
+      <city>Gig Harbor</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>125</parkId>
+      <parkName>Eddon Boat Park</parkName>
+      <streetAddress>3805 Harborview Dr</streetAddress>
+      <zipCode>98335</zipCode>
+   </element>
+   <element>
+      <city>Gig Harbor</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>126</parkId>
+      <parkName>Donkey Creek Park</parkName>
+      <streetAddress>.714 Harborview Dr</streetAddress>
+      <zipCode>98332</zipCode>
+   </element>
+   <element>
+      <city>Gig Harbor</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>127</parkId>
+      <parkName>Rosedale Park</parkName>
+      <streetAddress>86th Ave NW</streetAddress>
+      <zipCode>98335</zipCode>
+   </element>
+   <element>
+      <city>Gig Harbor</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>128</parkId>
+      <parkName>Sunrise Beach Park</parkName>
+      <streetAddress>10015 Sunrise Beach Dr NW</streetAddress>
+      <zipCode>98332</zipCode>
+   </element>
+   <element>
+      <city>Gig Harbor</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>129</parkId>
+      <parkName>Sehmel Homestead Park</parkName>
+      <streetAddress>10123 78th Ave NW</streetAddress>
+      <zipCode>98332</zipCode>
+   </element>
+   <element>
+      <city>Gig Harbor</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>130</parkId>
+      <parkName>McCormick Forest Park</parkName>
+      <streetAddress>10301 Bujacich Rd NW</streetAddress>
+      <zipCode>98332</zipCode>
+   </element>
+   <element>
+      <city>Gig Harbor</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>131</parkId>
+      <parkName>Rotary Bark Park</parkName>
+      <streetAddress>10100 Bujacich Rd NW</streetAddress>
+      <zipCode>98332</zipCode>
+   </element>
+   <element>
+      <city>Gig Harbor</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>132</parkId>
+      <parkName>Tubbys Trail Dog Park</parkName>
+      <streetAddress>1701 14th Ave NW</streetAddress>
+      <zipCode>98335</zipCode>
+   </element>
+   <element>
+      <city>Gig Harbor</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>133</parkId>
+      <parkName>Crescent Lake County Park</parkName>
+      <streetAddress>3510 Grandview St</streetAddress>
+      <zipCode>98335</zipCode>
+   </element>
+   <element>
+      <city>Gig Harbor</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>134</parkId>
+      <parkName>Maplewood Park</parkName>
+      <streetAddress>14600 14th Ave NW</streetAddress>
+      <zipCode>98332</zipCode>
+   </element>
+   <element>
+      <city>Gig Harbor</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>135</parkId>
+      <parkName>Purdy Sand Spit</parkName>
+      <streetAddress>Washington SR 302</streetAddress>
+      <zipCode>98329</zipCode>
+   </element>
+   <element>
+      <city>Lakebay</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>136</parkId>
+      <parkName>Penrose Point State Park</parkName>
+      <streetAddress>321 158th Ave KP South</streetAddress>
+      <zipCode>98349</zipCode>
+   </element>
+   <element>
+      <city>Longbranch</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>137</parkId>
+      <parkName>Joemma Beach State Park</parkName>
+      <streetAddress>20001 Bay Road KP South</streetAddress>
+      <zipCode>98351</zipCode>
+   </element>
+   <element>
+      <city>Lakebay</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>138</parkId>
+      <parkName>Key Peninsula Metro Parks</parkName>
+      <streetAddress>5514 Key Peninsula Highway</streetAddress>
+      <zipCode>98349</zipCode>
+   </element>
+   <element>
+      <city>Lakewood</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>139</parkId>
+      <parkName>Springbrook Park</parkName>
+      <streetAddress>12601th St SW</streetAddress>
+      <zipCode>98499</zipCode>
+   </element>
+   <element>
+      <city>Lakewood</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>140</parkId>
+      <parkName>Edgewater Park</parkName>
+      <streetAddress>9102 Edgewater Dr SW</streetAddress>
+      <zipCode>98499</zipCode>
+   </element>
+   <element>
+      <city>Fircrest</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>141</parkId>
+      <parkName>Christopher Columbus Bocce Courts</parkName>
+      <streetAddress>Forrest Park Dr</streetAddress>
+      <zipCode>98466</zipCode>
+   </element>
+   <element>
+      <city>Fircrest</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>142</parkId>
+      <parkName>George Masko Park</parkName>
+      <streetAddress>134 Ramsdell St</streetAddress>
+      <zipCode>98466</zipCode>
+   </element>
+   <element>
+      <city>University Place</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>143</parkId>
+      <parkName>Homestead Park</parkName>
+      <streetAddress>.715 Bridgeport Way W</streetAddress>
+      <zipCode>98466</zipCode>
+   </element>
+   <element>
+      <city>Fircrest</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>144</parkId>
+      <parkName>Fircrest Park</parkName>
+      <streetAddress>555 Contra Costa Ave</streetAddress>
+      <zipCode>98466</zipCode>
+   </element>
+   <element>
+      <city>University Place</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>145</parkId>
+      <parkName>Cirque Bridgeport Park</parkName>
+      <streetAddress>7250 Cirque Dr W</streetAddress>
+      <zipCode>98466</zipCode>
+   </element>
+   <element>
+      <city>Eatonville</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>146</parkId>
+      <parkName>Millpond Park</parkName>
+      <streetAddress>Alder St E</streetAddress>
+      <zipCode>98328</zipCode>
+   </element>
+   <element>
+      <city>Pacific</city>
+      <county>King</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>147</parkId>
+      <parkName>Pacific City Park</parkName>
+      <streetAddress>600 3rd Ave SE</streetAddress>
+      <zipCode>98047</zipCode>
+   </element>
+   <element>
+      <city>Graham</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>148</parkId>
+      <parkName>Frontier Park</parkName>
+      <streetAddress>2.718 Meridian Ave E</streetAddress>
+      <zipCode>98338</zipCode>
+   </element>
+   <element>
+      <city>Ashford</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>149</parkId>
+      <parkName>Sunrise Visitor Center</parkName>
+      <streetAddress>Sunrise Park Rd</streetAddress>
+      <zipCode>98304</zipCode>
+   </element>
+   <element>
+      <city>Ashford</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>150</parkId>
+      <parkName>Henry M Jackson Visitor Center</parkName>
+      <streetAddress>39000 WA-706</streetAddress>
+      <zipCode>98304</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>151</parkId>
+      <parkName>Alderwood Park</parkName>
+      <streetAddress>208 Browns Point Blvd</streetAddress>
+      <zipCode>98422</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>152</parkId>
+      <parkName>Alling Park</parkName>
+      <streetAddress>1134 S. 60th St.</streetAddress>
+      <zipCode>98408</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>153</parkId>
+      <parkName>Browns Point Athletic Complex</parkName>
+      <streetAddress>1526 51st St NE</streetAddress>
+      <zipCode>98422</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>154</parkId>
+      <parkName>Browns Point Lighthouse Park</parkName>
+      <streetAddress>201 Tulalip St NE</streetAddress>
+      <zipCode>98422</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>155</parkId>
+      <parkName>Browns Point Playfield</parkName>
+      <streetAddress>4915 La Hal Da Lane NE</streetAddress>
+      <zipCode>98422</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>156</parkId>
+      <parkName>Cummings Park</parkName>
+      <streetAddress>3939 Ruston Way</streetAddress>
+      <zipCode>98402</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>157</parkId>
+      <parkName>Dash Point Park</parkName>
+      <streetAddress>1500 Beach Dr NE</streetAddress>
+      <zipCode>98422</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>158</parkId>
+      <parkName>Hamilton Park</parkName>
+      <streetAddress>321 Ruston Way</streetAddress>
+      <zipCode>98402</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>159</parkId>
+      <parkName>Irving Park</parkName>
+      <streetAddress>2502 Hosmer St</streetAddress>
+      <zipCode>98405</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>160</parkId>
+      <parkName>Jack Hyde Park</parkName>
+      <streetAddress>2201 Ruston Way</streetAddress>
+      <zipCode>98402</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>161</parkId>
+      <parkName>Jane Clark Park</parkName>
+      <streetAddress>4825 N 39th St</streetAddress>
+      <zipCode>98407</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>162</parkId>
+      <parkName>Kandle Park</parkName>
+      <streetAddress>2323 N Shirley St</streetAddress>
+      <zipCode>98406</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>163</parkId>
+      <parkName>Lincoln Heights Park</parkName>
+      <streetAddress>3690 S. Steele St</streetAddress>
+      <zipCode>98409</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>164</parkId>
+      <parkName>Lots for Tots</parkName>
+      <streetAddress>1216 South I St</streetAddress>
+      <zipCode>98405</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>165</parkId>
+      <parkName>Manitou Park</parkName>
+      <streetAddress>4408 American Lake Blvd</streetAddress>
+      <zipCode>98409</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>166</parkId>
+      <parkName>McCarver Park</parkName>
+      <streetAddress>2301 South J St</streetAddress>
+      <zipCode>98405</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>167</parkId>
+      <parkName>Norpoint</parkName>
+      <streetAddress>4818 Nassau Ave NE</streetAddress>
+      <zipCode>98422</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>168</parkId>
+      <parkName>North Slope Historic District Park</parkName>
+      <streetAddress>1015 N 85th St</streetAddress>
+      <zipCode>98403</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>169</parkId>
+      <parkName>Northeast Tacoma Playground</parkName>
+      <streetAddress>5520 29th St NE</streetAddress>
+      <zipCode>98422</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>170</parkId>
+      <parkName>Oakland Madrona Park</parkName>
+      <streetAddress>3114 S Madison St</streetAddress>
+      <zipCode>98409</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>.71</parkId>
+      <parkName>Optimist Park</parkName>
+      <streetAddress>1330 N James St</streetAddress>
+      <zipCode>98406</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>172</parkId>
+      <parkName>Puget Park</parkName>
+      <streetAddress>3111 N. Proctor St</streetAddress>
+      <zipCode>98407</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>.73</parkId>
+      <parkName>Rogers Park</parkName>
+      <streetAddress>3151 East L St</streetAddress>
+      <zipCode>98404</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>174</parkId>
+      <parkName>Roosevelt Park</parkName>
+      <streetAddress>3601 E Roosevelt Ave</streetAddress>
+      <zipCode>98404</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>175</parkId>
+      <parkName>Ryans Park</parkName>
+      <streetAddress>429 S. 80th St</streetAddress>
+      <zipCode>98408</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>176</parkId>
+      <parkName>Sawyer Tot Lot</parkName>
+      <streetAddress>3315 S. Sawyer St</streetAddress>
+      <zipCode>98418</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>177</parkId>
+      <parkName>Sheridan Park</parkName>
+      <streetAddress>2347 S. Sheridan Ave</streetAddress>
+      <zipCode>98405</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>178</parkId>
+      <parkName>South End Recreation and Adventure (SERA)</parkName>
+      <streetAddress>6002 S. Adam St</streetAddress>
+      <zipCode>98409</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>179</parkId>
+      <parkName>Ursich Park</parkName>
+      <streetAddress>2412 N. 29th St</streetAddress>
+      <zipCode>98403</zipCode>
+   </element>
+   <element>
+      <city>Tacoma</city>
+      <county>Pierce</county>
+      <feature />
+      <latitude />
+      <longitude />
+      <parkId>180</parkId>
+      <parkName>Wapato Hills Park</parkName>
+      <streetAddress>6231 S. Wapato St</streetAddress>
+      <zipCode>98409</zipCode>
+   </element>
+</root>
