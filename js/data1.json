@@ -299,7 +299,7 @@
 {
 "parkId":"29",
 "parkName":"Fort Steilacoom Park",
-"streetAddress":".714 87th Ave S",
+"streetAddress":"4714 87th Ave S",
 "city":"Lakewood",
 "zipCode":"98498",
 "county":"Pierce",
@@ -409,7 +409,7 @@
 {
 "parkId":"39",
 "parkName":"Baltimore Park",
-"streetAddress":".716 N Baltimore St",
+"streetAddress":"4716 N Baltimore St",
 "city":"Tacoma",
 "zipCode":"98407",
 "county":"Pierce",
@@ -448,7 +448,7 @@
 "county":"Pierce",
 "latitude":"47.2861029",
 "longitude":"-122.4874407",
-"feature":"Walking Trail, Beach, Dock Access, Picnic Area, Restroom"
+"feature":"Walking Trail, Beach, Biking/Bike Trail Dock Access, Picnic Area, Restroom, Scuba/Underwater Park"
 },
 {
 "parkId":"43",
@@ -908,8 +908,8 @@
 "city":"Tacoma",
 "zipCode":"98404",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2040939",
+"longitude":"-122.4085157",
 "feature":""
 },
 {
@@ -919,8 +919,8 @@
 "city":"Tacoma",
 "zipCode":"98404",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2277486",
+"longitude":"-122.3916051",
 "feature":""
 },
 {
@@ -928,10 +928,10 @@
 "parkName":"South Hill Park",
 "streetAddress":"144th St E",
 "city":"South Hill",
-"zipCode":"98.73",
+"zipCode":"98473",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.1261922",
+"longitude":"-122.3149975",
 "feature":""
 },
 {
@@ -941,8 +941,8 @@
 "city":"Orting",
 "zipCode":"98360",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.0900734",
+"longitude":"-122.212067",
 "feature":""
 },
 {
@@ -952,8 +952,8 @@
 "city":"Orting",
 "zipCode":"98360",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.0973249",
+"longitude":"-122.2147181",
 "feature":""
 },
 {
@@ -963,30 +963,30 @@
 "city":"Orting",
 "zipCode":"98360",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.0972496",
+"longitude":"-122.2052302",
 "feature":""
 },
 {
 "parkId":"90",
 "parkName":"Orting Skate Park",
-"streetAddress":"Olive St SE",
+"streetAddress":"414 Washington Ave SE",
 "city":"Orting",
 "zipCode":"98360",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.0942258",
+"longitude":"-122.1988864",
 "feature":""
 },
 {
 "parkId":"91",
-"parkName":"Orting Lyons Club",
+"parkName":"Orting Lions Club",
 "streetAddress":"19725 Orville Rd E",
 "city":"Orting",
 "zipCode":"98360",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.0764271",
+"longitude":"-122.1864036",
 "feature":""
 },
 {
@@ -996,8 +996,8 @@
 "city":"Buckley",
 "zipCode":"98321",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.165147",
+"longitude":"-122.0276793",
 "feature":""
 },
 {
@@ -1007,8 +1007,8 @@
 "city":"Buckley",
 "zipCode":"98321",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.165147",
+"longitude":"-122.034646",
 "feature":""
 },
 {
@@ -1018,8 +1018,8 @@
 "city":"Buckley",
 "zipCode":"98321",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.1597229",
+"longitude":"-122.0271627",
 "feature":""
 },
 {
@@ -1029,8 +1029,8 @@
 "city":"Buckley",
 "zipCode":"98321",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.155756",
+"longitude":"-122.0128184",
 "feature":""
 },
 {
@@ -1040,8 +1040,8 @@
 "city":"Orting",
 "zipCode":"98321",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.1553909",
+"longitude":"-122.0294166",
 "feature":""
 },
 {
@@ -1051,8 +1051,8 @@
 "city":"South Prairie",
 "zipCode":"98321",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.1367489",
+"longitude":"-122.0994578",
 "feature":""
 },
 {
@@ -1062,8 +1062,8 @@
 "city":"Bonney Lake",
 "zipCode":"98391",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.1729079",
+"longitude":"-122.1547399",
 "feature":""
 },
 {
@@ -1073,19 +1073,19 @@
 "city":"Bonney Lake",
 "zipCode":"98391",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.1900042",
+"longitude":"-122.188452",
 "feature":""
 },
 {
 "parkId":"100",
 "parkName":"Madrona Park",
-"streetAddress":".730 182nd Ave E",
+"streetAddress":"730 182nd Ave E",
 "city":"Bonney Lake",
 "zipCode":"98391",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.1847756",
+"longitude":"-122.1888177",
 "feature":""
 },
 {
@@ -1095,8 +1095,8 @@
 "city":"Bonney Lake",
 "zipCode":"98391",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.1500199",
+"longitude":"-122.1871221",
 "feature":""
 },
 {
@@ -1106,8 +1106,8 @@
 "city":"Bonney Lake",
 "zipCode":"98391",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.1831751",
+"longitude":"-122.1775823",
 "feature":""
 },
 {
@@ -1117,8 +1117,8 @@
 "city":"Bonney Lake",
 "zipCode":"98391",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.1329409",
+"longitude":"-122.176988",
 "feature":""
 },
 {
@@ -1128,8 +1128,8 @@
 "city":"Bonney Lake",
 "zipCode":"98391",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.131905",
+"longitude":"-122.173302",
 "feature":""
 },
 {
@@ -1139,8 +1139,8 @@
 "city":"Puyallup",
 "zipCode":"98374",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.1581698",
+"longitude":"-122.2636744",
 "feature":""
 },
 {
@@ -1150,8 +1150,8 @@
 "city":"Sumner",
 "zipCode":"98390",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.1855481",
+"longitude":"-122.2159751",
 "feature":""
 },
 {
@@ -1161,8 +1161,8 @@
 "city":"Sumner",
 "zipCode":"98390",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.199651",
+"longitude":"-122.237364",
 "feature":""
 },
 {
@@ -1172,8 +1172,8 @@
 "city":"Sumner",
 "zipCode":"98390",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2065158",
+"longitude":"-122.225725",
 "feature":""
 },
 {
@@ -1183,8 +1183,8 @@
 "city":"Sumner",
 "zipCode":"98391",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2027928",
+"longitude":"-122.241658",
 "feature":""
 },
 {
@@ -1194,8 +1194,8 @@
 "city":"Sumner",
 "zipCode":"98390",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.1976964",
+"longitude":"-122.2233369",
 "feature":""
 },
 {
@@ -1205,19 +1205,8 @@
 "city":"Sumner",
 "zipCode":"98390",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
-"feature":""
-},
-{
-"parkId":"112",
-"parkName":"Callistoga Park",
-"streetAddress":"Skinner Rd",
-"city":"Orting",
-"zipCode":"98360",
-"county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2092589",
+"longitude":"122.2363075",
 "feature":""
 },
 {
@@ -1227,19 +1216,19 @@
 "city":"Gig Harbor",
 "zipCode":"98335",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2672371",
+"longitude":"-122.5658436",
 "feature":""
 },
 {
 "parkId":"114",
-"parkName":"Sanskie Brothers Park",
+"parkName":"Skansie Brothers Park",
 "streetAddress":"3211 Harborview Dr",
 "city":"Gig Harbor",
 "zipCode":"98335",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.3305781",
+"longitude":"-122.5819951",
 "feature":""
 },
 {
@@ -1249,8 +1238,8 @@
 "city":"Gig Harbor",
 "zipCode":"98335",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.322054",
+"longitude":"-122.5866452",
 "feature":""
 },
 {
@@ -1260,19 +1249,8 @@
 "city":"Gig Harbor",
 "zipCode":"98335",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
-"feature":""
-},
-{
-"parkId":"117",
-"parkName":"Wollochet Bay Estuary Park",
-"streetAddress":"Wollochet Drive NW",
-"city":"Gig Harbor",
-"zipCode":"98335",
-"county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.319031",
+"longitude":"-122.5967125",
 "feature":""
 },
 {
@@ -1282,8 +1260,8 @@
 "city":"Fox Island",
 "zipCode":"98333",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2770061",
+"longitude":"-122.6646525",
 "feature":""
 },
 {
@@ -1293,8 +1271,8 @@
 "city":"Fox Island",
 "zipCode":"98333",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2285321",
+"longitude":"-122.5911128",
 "feature":""
 },
 {
@@ -1304,19 +1282,19 @@
 "city":"Gig Harbor",
 "zipCode":"98335",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.289968",
+"longitude":"-122.6668726",
 "feature":""
 },
 {
 "parkId":"121",
 "parkName":"Kopachuk State Park",
-"streetAddress":"1.712 56th St NW",
+"streetAddress":"18712 56th St NW",
 "city":"Gig Harbor",
 "zipCode":"98335",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.3087474",
+"longitude":"-122.6781362",
 "feature":""
 },
 {
@@ -1326,8 +1304,8 @@
 "city":"Gig Harbor",
 "zipCode":"98335",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.320923",
+"longitude":" -122.687159",
 "feature":""
 },
 {
@@ -1337,8 +1315,8 @@
 "city":"Gig Harbor",
 "zipCode":"98335",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.3030299",
+"longitude":"-122.5860585",
 "feature":""
 },
 {
@@ -1348,8 +1326,8 @@
 "city":"Gig Harbor",
 "zipCode":"98332",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.3454129",
+"longitude":"-122.5797483",
 "feature":""
 },
 {
@@ -1359,19 +1337,19 @@
 "city":"Gig Harbor",
 "zipCode":"98335",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.3337809",
+"longitude":"-122.5889258",
 "feature":""
 },
 {
 "parkId":"126",
 "parkName":"Donkey Creek Park",
-"streetAddress":".714 Harborview Dr",
+"streetAddress":"8714 Harborview Dr",
 "city":"Gig Harbor",
 "zipCode":"98332",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.3377195",
+"longitude":"-122.5946682",
 "feature":""
 },
 {
@@ -1381,8 +1359,8 @@
 "city":"Gig Harbor",
 "zipCode":"98335",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.3308522",
+"longitude":"-122.6541196",
 "feature":""
 },
 {
@@ -1392,8 +1370,8 @@
 "city":"Gig Harbor",
 "zipCode":"98332",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.3498877",
+"longitude":"-122.5570929",
 "feature":""
 },
 {
@@ -1403,8 +1381,8 @@
 "city":"Gig Harbor",
 "zipCode":"98332",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.3512234",
+"longitude":"-122.6303802",
 "feature":""
 },
 {
@@ -1414,8 +1392,8 @@
 "city":"Gig Harbor",
 "zipCode":"98332",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.3523177",
+"longitude":"-122.6186672",
 "feature":""
 },
 {
@@ -1425,8 +1403,8 @@
 "city":"Gig Harbor",
 "zipCode":"98332",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.350872",
+"longitude":"-122.621564",
 "feature":""
 },
 {
@@ -1436,8 +1414,8 @@
 "city":"Gig Harbor",
 "zipCode":"98335",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2777775",
+"longitude":"-122.5603065",
 "feature":""
 },
 {
@@ -1447,8 +1425,8 @@
 "city":"Gig Harbor",
 "zipCode":"98335",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.39468844",
+"longitude":"-122.567507",
 "feature":""
 },
 {
@@ -1458,8 +1436,8 @@
 "city":"Gig Harbor",
 "zipCode":"98332",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.3903724",
+"longitude":"-122.5562399",
 "feature":""
 },
 {
@@ -1469,8 +1447,8 @@
 "city":"Gig Harbor",
 "zipCode":"98329",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.3808995",
+"longitude":"-122.6391228",
 "feature":""
 },
 {
@@ -1480,8 +1458,8 @@
 "city":"Lakebay",
 "zipCode":"98349",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2576685",
+"longitude":"-122.7433775",
 "feature":""
 },
 {
@@ -1491,8 +1469,8 @@
 "city":"Longbranch",
 "zipCode":"98351",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2254708",
+"longitude":"-122.8091532",
 "feature":""
 },
 {
@@ -1502,8 +1480,8 @@
 "city":"Lakebay",
 "zipCode":"98349",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.3082779",
+"longitude":"-122.7556183",
 "feature":""
 },
 {
@@ -1513,8 +1491,8 @@
 "city":"Lakewood",
 "zipCode":"98499",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.1429056",
+"longitude":"-122.5013869",
 "feature":""
 },
 {
@@ -1524,8 +1502,8 @@
 "city":"Lakewood",
 "zipCode":"98499",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.1741372",
+"longitude":"-122.5354221",
 "feature":""
 },
 {
@@ -1535,8 +1513,8 @@
 "city":"Fircrest",
 "zipCode":"98466",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2299532",
+"longitude":"-122.5113925",
 "feature":""
 },
 {
@@ -1546,30 +1524,30 @@
 "city":"Fircrest",
 "zipCode":"98466",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.232393",
+"longitude":"-122.507044",
 "feature":""
 },
 {
 "parkId":"143",
 "parkName":"Homestead Park",
-"streetAddress":".715 Bridgeport Way W",
+"streetAddress":"4715 Bridgeport Way W",
 "city":"University Place",
 "zipCode":"98466",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2231439",
+"longitude":"-122.5382532",
 "feature":""
 },
 {
 "parkId":"144",
 "parkName":"Fircrest Park",
-"streetAddress":"555 Contra Costa Ave",
+"streetAddress":"471 Electron Way",
 "city":"Fircrest",
 "zipCode":"98466",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.234370",
+"longitude":"-122.511378",
 "feature":""
 },
 {
@@ -1579,8 +1557,8 @@
 "city":"University Place",
 "zipCode":"98466",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2119938",
+"longitude":"-122.5342154",
 "feature":""
 },
 {
@@ -1590,8 +1568,8 @@
 "city":"Eatonville",
 "zipCode":"98328",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"46.862357",
+"longitude":"-122.264856",
 "feature":""
 },
 {
@@ -1601,19 +1579,19 @@
 "city":"Pacific",
 "zipCode":"98047",
 "county":"King",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.264111",
+"longitude":"-122.2368896",
 "feature":""
 },
 {
 "parkId":"148",
 "parkName":"Frontier Park",
-"streetAddress":"2.718 Meridian Ave E",
+"streetAddress":"21718 Meridian Ave E",
 "city":"Graham",
 "zipCode":"98338",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.0591971",
+"longitude":"-122.2969316",
 "feature":""
 },
 {
@@ -1623,8 +1601,8 @@
 "city":"Ashford",
 "zipCode":"98304",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"46.9140844",
+"longitude":"-121.6441602",
 "feature":""
 },
 {
@@ -1634,8 +1612,8 @@
 "city":"Ashford",
 "zipCode":"98304",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"46.7864549",
+"longitude":"-121.7382209",
 "feature":""
 },
 {
@@ -1645,8 +1623,8 @@
 "city":"Tacoma",
 "zipCode":"98422",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2869923",
+"longitude":"-122.3889551",
 "feature":""
 },
 {
@@ -1656,8 +1634,8 @@
 "city":"Tacoma",
 "zipCode":"98408",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2028644",
+"longitude":"-122.4524257",
 "feature":""
 },
 {
@@ -1667,8 +1645,8 @@
 "city":"Tacoma",
 "zipCode":"98422",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.301781",
+"longitude":"-122.423760",
 "feature":""
 },
 {
@@ -1678,8 +1656,8 @@
 "city":"Tacoma",
 "zipCode":"98422",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.3053722",
+"longitude":"-122.4438329",
 "feature":""
 },
 {
@@ -1689,8 +1667,8 @@
 "city":"Tacoma",
 "zipCode":"98422",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.3018319",
+"longitude":"-122.4401733",
 "feature":""
 },
 {
@@ -1700,8 +1678,8 @@
 "city":"Tacoma",
 "zipCode":"98402",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.287103",
+"longitude":"-122.488931",
 "feature":""
 },
 {
@@ -1711,19 +1689,19 @@
 "city":"Tacoma",
 "zipCode":"98422",
 "county":"Pierce ",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.3191803",
+"longitude":"-122.4268471",
 "feature":""
 },
 {
 "parkId":"158",
 "parkName":"Hamilton Park",
-"streetAddress":"321 Ruston Way",
+"streetAddress":"2321 Ruston Way",
 "city":"Tacoma",
 "zipCode":"98402",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2765499",
+"longitude":"-122.4687572",
 "feature":""
 },
 {
@@ -1733,8 +1711,8 @@
 "city":"Tacoma",
 "zipCode":"98405",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.236316",
+"longitude:"-122.462122",
 "feature":""
 },
 {
@@ -1744,8 +1722,8 @@
 "city":"Tacoma",
 "zipCode":"98402",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2752638",
+"longitude":"-122.4644025",
 "feature":""
 },
 {
@@ -1755,8 +1733,8 @@
 "city":"Tacoma",
 "zipCode":"98407",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2851304",
+"longitude":"-122.5035159",
 "feature":""
 },
 {
@@ -1777,8 +1755,8 @@
 "city":"Tacoma",
 "zipCode":"98409",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.227527",
+"longitude":"-122.469457",
 "feature":""
 },
 {
@@ -1788,8 +1766,8 @@
 "city":"Tacoma",
 "zipCode":"98405",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.250543",
+"longitude":"-122.448928",
 "feature":""
 },
 {
@@ -1799,8 +1777,8 @@
 "city":"Tacoma",
 "zipCode":"98409",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.1960869",
+"longitude":"-122.4984261",
 "feature":""
 },
 {
@@ -1810,8 +1788,8 @@
 "city":"Tacoma",
 "zipCode":"98405",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.239643",
+"longitude":"-122.447340",
 "feature":""
 },
 {
@@ -1821,8 +1799,8 @@
 "city":"Tacoma",
 "zipCode":"98422",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.299032",
+"longitude":"-122.404466",
 "feature":""
 },
 {
@@ -1832,8 +1810,8 @@
 "city":"Tacoma",
 "zipCode":"98403",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2631762",
+"longitude":"-122.4606136",
 "feature":""
 },
 {
@@ -1843,8 +1821,8 @@
 "city":"Tacoma",
 "zipCode":"98422",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.281955",
+"longitude":"-122.373589",
 "feature":""
 },
 {
@@ -1854,19 +1832,19 @@
 "city":"Tacoma",
 "zipCode":"98409",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2320262",
+"longitude":"-122.4932897",
 "feature":""
 },
 {
-"parkId":".71",
+"parkId":"171",
 "parkName":"Optimist Park",
 "streetAddress":"1330 N James St",
 "city":"Tacoma",
 "zipCode":"98406",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.263216",
+"longitude":"-122.534826",
 "feature":""
 },
 {
@@ -1876,8 +1854,8 @@
 "city":"Tacoma",
 "zipCode":"98407",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2759012",
+"longitude":"-122.4896494",
 "feature":""
 },
 {
