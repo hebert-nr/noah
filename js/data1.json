@@ -8,7 +8,7 @@
 "county":"Pierce",
 "latitude":"47.171212",
 "longitude":"-122.2781745",
-"feature":" BBQ/Grill, Disabled Access, Covered Picnic Rental, Hiking, Multi-Purpose Room Rental, Baseball Field, Picnic Area, Playground, Restrooms, Stream or Creek, Toddler Playground, Walking Trail, Waterfall"
+"feature":"BBQ/Grill, Disabled Access, Covered Picnic Rental, Hiking, Multi-Purpose Room Rental, Baseball Field, Picnic Area, Playground, Restrooms, Stream or Creek, Toddler Playground, Walking Trail, Waterfall"
 },
 {
 "parkId":"3",
@@ -85,7 +85,7 @@
 "county":"King",
 "latitude":"47.280441",
 "longitude":"-122.2054517",
-"feature":" Ampitheater, Baseball Field, Covered Picnic Rental, Basketball Court, BBQ/Grill, Concessions, Disabled Access, Lighted Tennis Courts, Picnic Area, Playground, Restrooms, River, Soccer Field, Stage, Tennis Court, Volleyball, Walking Trail"
+"feature":" Ampitheater, Disc Golf, Baseball Field, Covered Picnic Rental, Basketball Court, BBQ/Grill, Concessions, Disabled Access, Lighted Tennis Courts, Picnic Area, Playground, Restrooms, River, Soccer Field, Stage, Tennis Court, Volleyball, Walking Trail"
 },
 {
 "parkId":"10",
@@ -228,7 +228,7 @@
 "county":"Pierce",
 "latitude":"47.2310942",
 "longitude":",-122.3582427",
-"feature":"Baseball Field, Museum, Volleyball, Basketball Court, Restrooms, Playground, Disabled Access, Pond, Walking Trail"
+"feature":""
 },
 {
 "parkId":"23",
@@ -239,7 +239,7 @@
 "county":"Pierce",
 "latitude":"47.232003",
 "longitude":"-122.350013",
-"feature":"Playground, Toddler Playground, Basketball Court, Picnic Area, Disabled Access"
+"feature":""
 },
 {
 "parkId":"24",
@@ -250,7 +250,7 @@
 "county":"Pierce",
 "latitude":"47.2383371",
 "longitude":"-122.3554069",
-"feature":"Playground, Picnic Area, Pool"
+"feature":""
 },
 {
 "parkId":"25",
@@ -261,7 +261,7 @@
 "county":"Pierce",
 "latitude":"47.225810",
 "longitude":"-122.343951",
-"feature":"Playground, Skate Park, Picnic Area, Walking Trail, Restroom, Basketball Court, Toddler Playground"
+"feature":""
 },
 {
 "parkId":"26",
@@ -272,7 +272,7 @@
 "county":"Pierce",
 "latitude":"47.250104",
 "longitude":"-122.346852",
-"feature":"Stream/Creek, Pond, Walking Trail"
+"feature":""
 },
 {
 "parkId":"27",
@@ -283,7 +283,7 @@
 "county":"Pierce",
 "latitude":"46.8699979",
 "longitude":"-122.2724811",
-"feature":"Basketball Court, Restroom"
+"feature":""
 },
 {
 "parkId":"28",
@@ -294,7 +294,7 @@
 "county":"Pierce",
 "latitude":"46.7614465",
 "longitude":"-122.0397065",
-"feature":"Playground, Restroom, Disabled Access, Picnic Area, Walking Trail, Pond, Ampitheater"
+"feature":""
 },
 {
 "parkId":"29",
@@ -305,7 +305,7 @@
 "county":"Pierce",
 "latitude":"47.1705893",
 "longitude":"-122.5648762",
-"feature":"Off Leash Dog Park, Museum, Monument/Memorial, Covered Picnic Rental, Restrooms, Playground, Toddler Playground, Walking Trail, Baseball Field, Soccer Field, Picnic Area, BBQ/Grill, Fishing, Lake, Multi-Purpose Rental Room"
+"feature":""
 },
 {
 "parkId":"30",
@@ -316,7 +316,7 @@
 "county":"Pierce",
 "latitude":"47.2419648",
 "longitude":"-122.5336054",
-"feature":"Playground, Toddler Playground, Baseball Field, Restroom, Picnic Area, Covered Picnic Rental"
+"feature":""
 },
 {
 "parkId":"31",
@@ -327,7 +327,7 @@
 "county":"Pierce",
 "latitude":"47.2457803",
 "longitude":"-122.5092807",
-"feature":"Lake, Fishing, Walking Trail "
+"feature":""
 },
 {
 "parkId":"32",
@@ -338,7 +338,7 @@
 "county":"Pierce",
 "latitude":"47.2473677",
 "longitude":"-122.4989232",
-"feature":"Walking Trail, Pond"
+"feature":""
 },
 {
 "parkId":"33",
@@ -349,7 +349,7 @@
 "county":"Pierce",
 "latitude":"47.2409061",
 "longitude":"-122.49363",
-"feature":"Playground, Walking Trail, Museum, Pond, Concessions, Restrooms, Multi-Purpose Room Rental"
+"feature":""
 },
 {
 "parkId":"34",
@@ -360,7 +360,7 @@
 "county":"Pierce",
 "latitude":"47.2419434",
 "longitude":"-122.496709",
-"feature":"Baseball Field, Restrooms, Disabled Access"
+"feature":""
 },
 {
 "parkId":"35",
@@ -371,7 +371,7 @@
 "county":"Pierce",
 "latitude":"47.2480979",
 "longitude":"-122.4814218",
-"feature":"Baseball Field, Community Garden, Playground, Walking Trail, Basketball Court, Spray Park, Restrooms, Toddler Playground, Disabled Access, Picnic Area,  Covered Picnic Rental "
+"feature":""
 },
 {
 "parkId":"36",
@@ -382,7 +382,7 @@
 "county":"Pierce",
 "latitude":"47.2582352",
 "longitude":"-122.4909363",
-"feature":"Baseball Field, Community Center, Basketball Court, Tennis Court, Spray Park, Picnic Area, Playground, Restrooms, Walking Trail"
+"feature":""
 },
 {
 "parkId":"37",
@@ -393,7 +393,7 @@
 "county":"Pierce",
 "latitude":"47.2572094",
 "longitude":"-122.5359984",
-"feature":"Walking Trail, Picnic Area, Memorial/Monument"
+"feature":""
 },
 {
 "parkId":"38",
@@ -404,7 +404,7 @@
 "county":"Pierce",
 "latitude":"47.2809054",
 "longitude":"-122.5187874",
-"feature":"Baseball Field, Basketball Court, Playground, Tennis Court, Walking Path, Restroom, Disabled Access, Toddler Playground, Picnic Area"
+"feature":""
 },
 {
 "parkId":"39",
@@ -415,7 +415,7 @@
 "county":"Pierce",
 "latitude":"47.2922447",
 "longitude":"-122.5093725",
-"feature":"Picnic Area, Playground, Soccer Field, Disabled Access, Toddler Playground, Basketball Court, Walking Trail"
+"feature":""
 },
 {
 "parkId":"40",
@@ -426,7 +426,7 @@
 "county":"Pierce",
 "latitude":"47.2970177",
 "longitude":"-122.5115069",
-"feature":"Playground, Picnic Area, Basketball Court"
+"feature":""
 },
 {
 "parkId":"41",
@@ -437,7 +437,7 @@
 "county":"Pierce",
 "latitude":"47.3072501",
 "longitude":"-122.5324085",
-"feature":"Fishing, Hiking, Memorial/Monument, Museum, Walking Trail, Dock Access, Beach, Restroom, Multi-Purpose Rental Room, Disabled Access, Pond, Picnic Area, Covered Picnic Rental, Concessions, BBQ/Grill, Off Leash Dog Park, Zoo, Playground, Tennis Courts"
+"feature":""
 },
 {
 "parkId":"42",
@@ -446,9 +446,9 @@
 "city":"Tacoma",
 "zipCode":"98407",
 "county":"Pierce",
-"latitude":"47.2861029",
-"longitude":"-122.4874407",
-"feature":"Walking Trail, Beach, Biking/Bike Trail Dock Access, Picnic Area, Restroom, Scuba/Underwater Park"
+"latitude":"47.2864226",
+"longitude":"-122.4907891",
+"feature":""
 },
 {
 "parkId":"43",
@@ -459,7 +459,7 @@
 "county":"Pierce",
 "latitude":"47.2766082",
 "longitude":"-122.4818975",
-"feature":"Stream/Creek, Walking Trail"
+"feature":""
 },
 {
 "parkId":"44",
@@ -470,7 +470,7 @@
 "county":"Pierce",
 "latitude":"47.2752627",
 "longitude":"-122.4736047",
-"feature":"Restroom, Walking Trail, Dock Access, Beach"
+"feature":""
 },
 {
 "parkId":"45",
@@ -481,18 +481,18 @@
 "county":"Pierce",
 "latitude":"47.2736529",
 "longitude":"-122.4748798",
-"feature":"Basketball Court, Museum, Walking Trail, Picnic Area, Playground"
+"feature":""
 },
 {
 "parkId":"46",
 "parkName":"Gateway Park",
-"streetAddress":"2101",
+"streetAddress":"North 30th St",
 "city":"Tacoma",
 "zipCode":"98403",
 "county":"Pierce",
-"latitude":"47.2748943",
-"longitude":"-122.4635799",
-"feature":"Picnic Area, Monument/Memorial"
+"latitude":"47.2749288",
+"longitude":"-122.4657046",
+"feature":""
 },
 {
 "parkId":"47",
@@ -503,7 +503,7 @@
 "county":"Pierce",
 "latitude":"47.2749093",
 "longitude":"-122.4609299",
-"feature":"Beach, Walking Trail, Monument/Memorial, Multi-Purpose Room Rental, Disabiled Access"
+"feature":""
 },
 {
 "parkId":"48",
@@ -1859,14 +1859,14 @@
 "feature":""
 },
 {
-"parkId":".73",
+"parkId":"173",
 "parkName":"Rogers Park",
 "streetAddress":"3151 East L St",
 "city":"Tacoma",
 "zipCode":"98404",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2331721",
+"longitude":"-122.41541",
 "feature":""
 },
 {
@@ -1876,8 +1876,8 @@
 "city":"Tacoma",
 "zipCode":"98404",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.225973",
+"longitude":" -122.398586",
 "feature":""
 },
 {
@@ -1887,8 +1887,8 @@
 "city":"Tacoma",
 "zipCode":"98408",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.184615",
+"longitude":"-122.437007",
 "feature":""
 },
 {
@@ -1898,8 +1898,8 @@
 "city":"Tacoma",
 "zipCode":"98418",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.229212",
+"longitude":"-122.453977",
 "feature":""
 },
 {
@@ -1909,8 +1909,8 @@
 "city":"Tacoma",
 "zipCode":"98405",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2376327",
+"longitude":"-122.4528505",
 "feature":""
 },
 {
@@ -1920,8 +1920,8 @@
 "city":"Tacoma",
 "zipCode":"98409",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2006646",
+"longitude":"-122.4902047",
 "feature":""
 },
 {
@@ -1931,8 +1931,8 @@
 "city":"Tacoma",
 "zipCode":"98403",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2734521",
+"longitude":"-122.4700414",
 "feature":""
 },
 {
@@ -1942,8 +1942,52 @@
 "city":"Tacoma",
 "zipCode":"98409",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.199501",
+"longitude":"-122.467767",
+"feature":""
+},
+{
+"parkId":"181",
+"parkName":"Lakewold Gardens",
+"streetAddress":"12317 Gravelly Lake Dr SW",
+"city":"Lakewood",
+"zipCode":"98499",
+"county":"Pierce",
+"latitude":"47.1461544",
+"longitude":"-122.5369351",
+"feature":""
+},
+{
+"parkId":"182",
+"parkName":"Sticks n Stones",
+"streetAddress":"Parkview Ct E",
+"city":"Bonney Lake",
+"zipCode":"98391",
+"county":"Pierce",
+"latitude":"47.124666",
+"longitude":"-122.166873",
+"feature":""
+},
+{
+"parkId":"117",
+"parkName":"Big Sky Park",
+"streetAddress":"Village Parkway E",
+"city":"Bonney Lake",
+"zipCode":"98391",
+"county":"Pierce",
+"latitude":"47.1277194",
+"longitude":"-122.1859127",
+"feature":""
+},
+{
+"parkId":"112",
+"parkName":"Charlottes Blueberry Park",
+"streetAddress":"7402 East D St",
+"city":"Tacoma",
+"zipCode":"98404",
+"county":"Pierce",
+"latitude":"47.199501",
+"longitude":"-122.467767",
 "feature":""
 }
 ]
