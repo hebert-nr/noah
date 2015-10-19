@@ -468,8 +468,8 @@
 "city":"Tacoma",
 "zipCode":"98402",
 "county":"Pierce",
-"latitude":"47.2752627",
-"longitude":"-122.4736047",
+"latitude":"47.2762193",
+"longitude":"-122.4751853",
 "feature":""
 },
 {
@@ -556,8 +556,8 @@
 "city":"Tacoma",
 "zipCode":"98405",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2540524",
+"longitude":"-122.4543926",
 "feature":""
 },
 {
@@ -584,13 +584,13 @@
 },
 {
 "parkId":"55",
-"parkName":"Peck Field",
-"streetAddress":"4702 s 19th St",
+"parkName":"Peck Athletic Field",
+"streetAddress":"1425 S State St",
 "city":"Tacoma",
 "zipCode":"98405",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2468925",
+"longitude":"-122.4655159",
 "feature":""
 },
 {
@@ -820,8 +820,8 @@
 "city":"University Place",
 "zipCode":"98467",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.197994",
+"longitude":"-122.576859",
 "feature":""
 },
 {
@@ -831,8 +831,8 @@
 "city":"Parkland",
 "zipCode":"98444",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.1248569",
+"longitude":"-122.4600799",
 "feature":""
 },
 {
@@ -842,8 +842,8 @@
 "city":"Tacoma",
 "zipCode":"98444",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.1226312",
+"longitude":"-122.4405726",
 "feature":""
 },
 {
@@ -853,8 +853,8 @@
 "city":"Parkland",
 "zipCode":"98445",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.1324841",
+"longitude":"-122.4112039",
 "feature":""
 },
 {
@@ -864,8 +864,8 @@
 "city":"Tacoma",
 "zipCode":"98444",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.1773518",
+"longitude":"-122.4404146",
 "feature":""
 },
 {
@@ -875,8 +875,8 @@
 "city":"Tacoma",
 "zipCode":"98404",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2048171",
+"longitude":"-122.4266203",
 "feature":""
 },
 {
@@ -886,8 +886,8 @@
 "city":"Tacoma",
 "zipCode":"98408",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.2134035",
+"longitude":"122.4421678",
 "feature":""
 },
 {
@@ -897,8 +897,8 @@
 "city":"Tacoma",
 "zipCode":"98445",
 "county":"Pierce",
-"latitude":" ",
-"longitude":" ",
+"latitude":"47.1765212",
+"longitude":"-122.4063316",
 "feature":""
 },
 {
