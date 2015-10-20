@@ -1,11 +1,11 @@
 <section class="parkinfo">
   <div class="park cf" ng-model="data">
-	<a href="#/detailed/{{prevItem}}" class="btn btn-left">&lt;</a>
-	<a href="#/detailed/{{nextItem}}" class="btn btn-right">&gt;</a>
+	<hr/>
 	<h2>{{data[whichItem].parkName}}</h2>
+	<hr/>
 	<p>{{data[whichItem].streetAddress}}</p>
 	<p>{{data[whichItem].city}}, {{data[whichItem].zipCode}}</p>
 	<p id="feat"><strong>Features:</strong> {{data[whichItem].feature}}</span>
   </div>
-  <a class="btn" href="index.html">&laquo; Back</a>
+  <a class="btn" onclick="history.back()">&laquo; Back</a>
 </section>
