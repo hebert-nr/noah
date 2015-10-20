@@ -495,6 +495,28 @@
 "feature":" Basketball Court, Community Garden, Playground"
 },
 {
+"parkId":"52",
+"parkName":"People's Park",
+"streetAddress":"900 Martin Luther King Jr Way",
+"city":"Tacoma",
+"zipCode":"98405",
+"county":"Pierce",
+"latitude":"47.2540524", 
+"longitude":"-1.224543926",
+"feature":"Playground, Disabled Access, Walking Trail, Basketball Court, Picnic Area, Stage"
+},
+{
+"parkId":"53",
+"parkName":"Fireman's Park",
+"streetAddress":"801 A St",
+"city":"Tacoma",
+"zipCode":"98405",
+"county":"Pierce",
+"latitude":"4.72562107",
+"longitude":",-1.224375492",
+"feature":"Disabled Access, Walking Trail, Picnic Area, Monument/Memorial"
+},
+{
 "parkId":"54",
 "parkName":"Frost Park",
 "streetAddress":"S 9th St",
