@@ -8,12 +8,10 @@
 
 	<preference name="phonegap-version" value="cli-5.2.0" />
 	
-	<gap:plugin name = "org.apache.cordova.splashscreen" version="0.3.4" />
+	
 	<preference name="AutoHideSplashScreen" value="true" />
 	<preference name="SplashScreenDelay" value="3000" />
-	
-
-   
+	   
 	<name>Parkolo</name>
 	<content src="index.html"/>  
 	<icon src="images/Parkolo_icon.png" gap:platform="winphone" />
@@ -41,6 +39,6 @@
 		Noah Hebert
 	</author>
 	<gap:plugin name="org.apache.cordova.device" />
-	
+	<gap:plugin name = "org.apache.cordova.splashscreen" version="0.3.4" />
 
 </widget>
