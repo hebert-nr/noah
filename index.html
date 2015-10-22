@@ -16,11 +16,20 @@
   <link rel="stylesheet" href="css/style.css" /> 
   <link rel="stylesheet" href="css/styleAng.css" /> 
    
-   <!--IF THE URL LIKE %DEFAULT.HTML%, BACK BUTTON GOES BACK TO SEARCH UNLESS SEARCH IS EMPTY THEN IT EXITS APP, OTHERWISE BACK BUTTON DOES NOTHING (
-meaning it won't reverse parse through all the parks we've already searched for   -->
+   <script>function onLoad() {
+        document.addEventListener("deviceready", onDeviceReady, false);
+    }
+
+    // device APIs are available
+    //
+    function onDeviceReady() {
+        // Now safe to use device APIs
+    }
+	</script>
+   
 
 </head>
-<body>
+<body onload="onLoad()">
  <div id="wrapper" >
 	<div id="head">
 		<img src="images/Parkolo_logo2.png" alt="Park Finder" title="Parkolo!"></img>
