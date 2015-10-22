@@ -9,7 +9,7 @@
 	<preference name="phonegap-version" value="cli-5.2.0" />
 	
 	<gap:plugin name = "org.apache.cordova.splashscreen" version="0.3.4" />
-	<preference name="AutoHideSplashScreen" value="t" />
+	<preference name="AutoHideSplashScreen" value="false" />
 	<preference name="SplashScreenDelay" value="3000" />
 	
 
