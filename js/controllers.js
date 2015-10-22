@@ -7,11 +7,11 @@ parkController.controller('ListController', ['$scope', '$http', function($scope,
 		$scope.data = data;
 		$scope.parkOrder = 'parkName'; 
 	});
-	$scope.save = function () { localStorage['SearchItem'] = JSON.stringify($scope.query); };
+	$scope.save = function () { sessionStorage['SearchItem'] = JSON.stringify($scope.query); };
             $scope.getSettings = function () {
-                if (localStorage['SearchItem'] != null) { $scope.query = JSON.parse(localStorage['SearchItem']); }
-                if (localStorage['SearchItem'] == null) { $scope.query = {  }; $scope.save(); }
-
+                if (sessionStorage['SearchItem'] != null) { $scope.query = JSON.parse(sessionStorage['SearchItem']); }
+                if (sessionStorage['SearchItem'] == null) { $scope.query = {  "SearchItem": Park }; $scope.save(); }
+                
             };
 
 }]);
