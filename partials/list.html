@@ -5,7 +5,7 @@
   
   <label>Enter a Park Name, City, Zip Code or Feature: </label>
 	 <!--added a search function model "query" which will be called as a filter below-->
-	 <input ng-model="query" placeholder="'Spray Park' or 'Tacoma'" style="font-size:1em; ">
+	 <input ng-init="getSettings()" ng-model="query" placeholder="'Spray Park' or 'Tacoma'" style="font-size:1em;" >
 
 	<!--Creates a select box of how we filter our searches-->
      <label class="formgroup"><p>Sort by:
@@ -28,7 +28,7 @@
   
 	<ul class="parksList" ng-show="query">
 		<li class="park cf" dir-paginate="item in data | filter: query | orderBy: parkOrder:direction | itemsPerPage:20"> 
-			<a id="paLi" href="#/detailed/{{data.indexOf(item)}}">
+			<a id="paLi" href="#/detailed/{{data.indexOf(item)}}" ng-click="save()">
 			    <div class="info">
 					<h2>{{item.parkName}}</h2>
 				    <span>City: {{item.city}}, {{item.zipCode}}</span>
