@@ -45,9 +45,11 @@ ul {
 
 .shy-menu { 
   visibility:hidden;
+  position: absolute;
+  margin:0;
+  padding:0;
   display: block;
   height: 35px;
-  padding: 5px;
   width: 35px;
   background-color: rgba(33,40,44,.1);
   color: #fff;
@@ -253,6 +255,8 @@ body{
 }
 
 .shy-menu{
+  padding: 5px;
+  margin:default;
  visibility:visible;	
 }
 
