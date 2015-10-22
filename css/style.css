@@ -29,14 +29,6 @@ img{
 	box-shadow: 0 0 10px rgba(12, 3, 25, 0.8);
 }
 
-* {
-  -moz-transition: all .4s cubic-bezier(.1,.7,.3,1);
-  -webkit-transition: all .4s cubic-bezier(.1,.7,.3,1);
-  -o-transition: all .4s cubic-bezier(.1,.7,.3,1);
-  -ms-transition: all .4s cubic-bezier(.1,.7,.3,1);
-  transition: all .4s cubic-bezier(.1,.7,.3,1);
-}
-
 ul {
   list-style: none;
   margin: 0 0 0 15px;
@@ -226,19 +218,53 @@ ul li img {
 	color: #005406;
 }
 
+#contactForm span{
+	margin-left:22%;
+}
 
-/*-------BEGIN MEDIA QUERY-------*/
-@media screen and (max-width:478px){
- body{
-	font-size:13px;
+#contactForm input[type="text"],
+#contactForm input[type="email"],
+#contactForm input[type="tel"],
+#contactForm input[type="url"],
+#contactForm textarea {
+    width:60%;
+    box-shadow:inset 0 1px 2px #DDD, 0 1px 0 #FFF;
+    -webkit-box-shadow:inset 0 1px 2px #DDD, 0 1px 0 #FFF;
+    -moz-box-shadow:inset 0 1px 2px #DDD, 0 1px 0 #FFF;
+    border:1px solid #CCC;
+    background:#FFF;
+    margin:0 0 5px;
+    padding:10px;
+    border-radius:5px;
+	margin-left: 22%;
+	display:block;
+	max-width:450px;
+}
+
+
+
+
+#contactForm button[type="submit"] {
+    cursor:pointer;
+    width:40%;
+    border:none;
+    background:#005406;
+    color:#FFF;
+    margin:0 0 5px;
+    padding:10px;
+	margin-left:23%;
+    border-radius:5px;
+	min-width:200px
+}
+  
+ #contactForm h3{
+	color:#005406;
  }
+ 
+ 
+/*-------BEGIN MEDIA QUERY-------*/
 
-.section ul li a img{
-	width: 20%;
-	height: 20%;
-}
 
-}
 
 
 @media screen and (max-width:740px){
@@ -265,6 +291,7 @@ body{
 	list-style:none;
 	font-size: 13px;
 }
+
 #aboutMe{
  margin-top: 7em;
 font-size: 15px; 
@@ -288,39 +315,9 @@ font-size: 15px;
 }
 
  #nav{
-	 visibility:hidden;
-width:100%;
-margin-bottom:10px;
-}
-
-#nav ul{
-	list-style:none;
-	margin: 0 auto;
-	padding-left:0;
-}
-#nav ul li{
-	text-align:center;
-	margin-left:0 auto;
-	width: 100%;
-	border-top:1 px solid white;
-	border-bottom:1 px solid white;
-	border-right:0;
-	border-left:0;
-}
-
-#nav ul li a{
-	font-size: 16px;
-	padding: 8px 0;
-}
-
-#nav ul li.active a{
-	background:#6aba6f;
-}
-
-#nav ul li a:hover{
-	background:#6aba6f;
-}
- 
+	visibility:hidden;
+ }
+   
  .banner{
 	width:0;
 	height:0;
@@ -344,3 +341,17 @@ margin-bottom:10px;
 	text-align:left;
 	float:left;
  }
+
+ 
+ 
+@media screen and (max-width:478px){
+ body{
+	font-size:13px;
+ }
+
+.section ul li a img{
+	width: 20%;
+	height: 20%;
+}
+
+}
