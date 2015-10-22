@@ -7,17 +7,87 @@
   <meta charset="utf-8" />
 <title>Parkolo - Contact</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <script src="libs/angular.min.js"></script> <!--instantiates Angular-->
   <script src="libs/angular-route.min.js"></script> <!--instantiates Angular's "filter's" ability to bind data and managing how it maps to the current page since Angular is single page functionality. Meaning, it'll help load the partials we created-->
   <script src="libs/angular-animate.min.js"></script><!--instantiates animation specific to Angular-->
   <script src="js/apps.js"></script>
   <script src="js/controllers.js"></script>  
+  <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
   <link rel="stylesheet" href="css/style.css" /> 
   <link rel="stylesheet" href="css/styleAng.css" />  
-</head>
-<body>
 
+   <script>
+$(function() {
+	
+	initDropDowns($("div.shy-menu"));
+
+});
+
+function initDropDowns(allMenus) {
+
+	allMenus.children(".shy-menu-hamburger").on("click", function() {
+		
+		var thisTrigger = jQuery(this),
+			thisMenu = thisTrigger.parent(),
+			thisPanel = thisTrigger.next();
+
+		if (thisMenu.hasClass("is-open")) {
+
+      		thisMenu.removeClass("is-open");
+			
+      		jQuery(document).off("click");                                 
+      		thisPanel.off("click");
+
+		} else {			
+			
+    		allMenus.removeClass("is-open");	
+			thisMenu.addClass("is-open");
+	
+			jQuery(document).on("click", function() {
+				allMenus.removeClass("is-open");
+			});
+			thisPanel.on("click", function(e) {
+				e.stopPropagation();
+			});
+		}
+		
+		return false;
+	});
+}
+</script>
+  
+</head>
+
+<body>
+	<div class="shy-menu">
+		<a class="shy-menu-hamburger">
+			<span class="layer top"></span>
+			<span class="layer mid"></span>
+			<span class="layer btm"></span>
+		</a>
+		<div class="shy-menu-panel">
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<br/>
+				<li><a href="about.html">About</a></li>
+				<br/>
+				<li><a href="contact.html">Contact</a></li>
+				<br/>
+				<li><a href="#">Rate/Review</a></li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="menu open">
+	  <a class="hamburger">
+		<span class="layer top"></span>
+		<span class="layer mid"></span>
+		<span class="layer btm"></span>
+	  </a>
+	</div>
  <div id="wrapper">
+ 
 	<header id="head">
 		<img src="images/Parkolo_logo2.png" alt="Park Finder" title="Parkolo!"></img>
 	</header>
@@ -40,7 +110,7 @@
 			<img class="swing" src="images/treeswing.png"></img>
 		</div>
 		<div class="section">
-		<br />
+		<br/>
 		<p class="hideMe">------------------------------------------------------------------------</p>
 		<h3>&#169; 2015 Parkolo</h3>
 		</div>
