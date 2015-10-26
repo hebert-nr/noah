@@ -9,6 +9,10 @@ body{
 h1, h2, h3{
 	text-align:center;
 	color: #666;
+
+}
+p{
+	font-size:12px;
 }
 
 img{
@@ -131,7 +135,7 @@ ul {
 	border-top: 1px solid white;
 	border-left: 1px solid white;
 	border-right: 1px solid white;
-	width: 31%;
+	width: 23%;
 	text-align:center;
 }
 
@@ -279,11 +283,14 @@ body{
 	box-shadow: 0 0 0 rgba(2, 3, 25, 0.8);
 	border:none;
 }
+p{
+  font-size: 12px;
+}
 
 .shy-menu{
   padding: 5px;
   margin:default;
- visibility:visible;	
+  visibility:visible;	
 }
 
 .searching div{
@@ -294,7 +301,7 @@ body{
 
 #aboutMe{
  margin-top: 7em;
-font-size: 15px; 
+ font-size: 15px; 
 
 }
 .searching h1{
@@ -316,6 +323,8 @@ font-size: 15px;
 
  #nav{
 	visibility:hidden;
+	width:0;
+	height:0;
  }
    
  .banner{
@@ -354,4 +363,7 @@ font-size: 15px;
 	height: 20%;
 }
 
+ p{
+font-size: 11px;
+}
 }
