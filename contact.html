@@ -15,8 +15,7 @@
   <script src="js/controllers.js"></script>  
   <script src="js/submit.js"></script>  
   <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-  
-  
+ 
   <link rel="stylesheet" href="css/style.css" /> 
   <link rel="stylesheet" href="css/styleAng.css" />  
 
@@ -62,7 +61,7 @@ function initDropDowns(allMenus) {
   
 </head>
 
-<body>
+<body ng-app="websiteApp">
 	<div class="shy-menu">
 		<a class="shy-menu-hamburger">
 			<span class="layer top"></span>
@@ -106,38 +105,44 @@ function initDropDowns(allMenus) {
 			<img src="images/lake_Rainbow.jpg" alt="Park Finder" title="Parkolo!"> </img>
 	</div>	
 	
-	<div id="contactForm" action="/" method="post">
+	<div class="contactForm" action="/" method="post">
 		<h3>Comments or Questions? Please reach out to us or check out our social media links below.</h3>
 		<hr/>
-		<div>
+	<form ng-submit="submitForm()" ng-controller="FormController" novalidate>
+		<label for="name">Name</label>
+		<input type="text" name="name" ng-model="formData.name" ng-class="{'error' : errorName}">
+		<label for="email">E-mail</label>
+		<input type="email" name="email" ng-model="formData.email" ng-class="{'error' : errorEmail}">
+		<label for="message">Message</label>
+		<textarea name="message" ng-class="{'error' : errorTextarea}" ng-model="formData.message" cols="30" rows="10"></textarea>
+		<input type="submit" value="Send!" name="submit">
+		<div ng-class="{'submissionMessage' : submission}" ng-bind="submissionMessage"></div>
+	</form>
+		
+		
+		
+		
+		<!-- <div>
 			<label>
 				<span>Name</span>
-				<input type="text" required="required">
+				<input type="text" name="name" required="required">
 			</label>
 		</div>
 		<div>
 			<label>
 				<span>E-mail</span>
-				<input type="text" required="required">
-			</label>
-		</div>
-		<div>
-			<label>
-				<span>Website</span>
-				<input type="url">
+				<input type="text" name="email" required="required">
 			</label>
 		</div>
 		<div>
 			<label>
 				<span>Comment or Question</span><br/>
-				<textarea type="text" rows="5" required="required"></textarea>
+				<textarea type="text" rows="5" name="message" required="required"></textarea>
 			</label>
 		</div>
 		
-		<button type="submit" ngclick="submit" id="contact-submit">Submit</button>
+		<button type="submit" id="send">Submit</button> -->
 		<p>*Your information will not be shared or sold and is solely for communcation purposes between yourself and the Parkolo staff.</p>
-
-
 	</div>
 	<br/>
 	<p>Special thanks to my two sons and my family, GitHub, PhoneGap, Lynda.com, CPTC, metroparkstacoma.org, CipherTrick, Pixlr.com, my friends and anyone else who helped with research, development, and design.</p>

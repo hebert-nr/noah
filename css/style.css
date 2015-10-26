@@ -222,15 +222,15 @@ ul li img {
 	color: #005406;
 }
 
-#contactForm span{
+.contactForm span{
 	margin-left:22%;
 }
 
-#contactForm input[type="text"],
-#contactForm input[type="email"],
-#contactForm input[type="tel"],
-#contactForm input[type="url"],
-#contactForm textarea {
+.contactForm input[type="text"],
+.contactForm input[type="email"],
+.contactForm input[type="tel"],
+.contactForm input[type="url"],
+.contactForm textarea {
     width:60%;
     box-shadow:inset 0 1px 2px #DDD, 0 1px 0 #FFF;
     -webkit-box-shadow:inset 0 1px 2px #DDD, 0 1px 0 #FFF;
@@ -245,10 +245,7 @@ ul li img {
 	max-width:450px;
 }
 
-
-
-
-#contactForm button[type="submit"] {
+.contactForm button[type="submit"] {
     cursor:pointer;
     width:40%;
     border:none;
@@ -261,10 +258,22 @@ ul li img {
 	min-width:200px
 }
   
- #contactForm h3{
+ .contactForm h3{
 	color:#005406;
  }
- 
+
+ .error {
+  background-color: rgba(255, 0, 0, 0.2);
+}
+.submissionMessage {
+  background-color: rgba(255,255,255, 0.2);
+  border-radius: 5px;
+  padding: 12px;
+  text-align: center;
+  display: block;
+  box-shadow: 0 0 2px white;
+  width: 60%;
+}
  
 /*-------BEGIN MEDIA QUERY-------*/
 
@@ -362,6 +371,7 @@ p{
 	width: 20%;
 	height: 20%;
 }
+
 
  p{
 font-size: 11px;
