@@ -36,3 +36,4 @@ if ( ! empty($errors)) {
 }
 // return all our data to an AJAX call
 echo json_encode($data);
+?>
