@@ -39,6 +39,14 @@ ul {
   padding: 0;
 }
 
+* {
+  -moz-transition: all .1s cubic-bezier(.1,.7,.3,1);
+  -webkit-transition: all .1s cubic-bezier(.1,.7,.3,1);
+  -o-transition: all .1s cubic-bezier(.1,.7,.3,1);
+  -ms-transition: all .1s cubic-bezier(.1,.7,.3,1);
+  transition: all .1s cubic-bezier(.1,.7,.3,1);
+}
+
 .shy-menu { 
   visibility:hidden;
   position: absolute;
@@ -57,7 +65,7 @@ ul {
 }
 
 .shy-menu.is-open {
-  height: 30%;
+  height: 40%;
   width: 200px;
 }
 
