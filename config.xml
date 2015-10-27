@@ -3,13 +3,14 @@
 
 	xmlns:gap   = "http://phonegap.com/ns/1.0"
 	id          = "com.phonegap.parkolo"
-	version     = "0.8.102"
+	version     = "0.9.4"
 	versionCode = "10" >
 
 	<preference name="phonegap-version" value="cli-5.2.0" />
 
 	<preference name="AutoHideSplashScreen" value="true" />
 	<preference name="SplashScreenDelay" value="3000" />
+	<preference name="Orientation" value="portrait" />
 	
 
    
@@ -36,7 +37,7 @@
 		A way to search for new parks to take your kids, your dog or your own inner child to.  Database expansion to come. 
 	</description>
 
-	<author email="sodajrrk@gmail.com">
+	<author email="parkoloparkfinder@gmail.com">
 		Noah Hebert
 	</author>
 	<gap:plugin name="org.apache.cordova.device" />

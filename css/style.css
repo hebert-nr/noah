@@ -236,7 +236,6 @@ ul li img {
 
 .contactForm input[type="text"],
 .contactForm input[type="email"],
-.contactForm input[type="tel"],
 .contactForm input[type="url"],
 .contactForm textarea {
     width:60%;
@@ -253,17 +252,17 @@ ul li img {
 	max-width:450px;
 }
 
-.contactForm button[type="submit"] {
+.contactForm input[type="submit"] {
     cursor:pointer;
     width:40%;
     border:none;
     background:#005406;
     color:#FFF;
-    margin:0 0 5px;
+    margin:0 0 0 55px;
     padding:10px;
 	margin-left:23%;
     border-radius:5px;
-	min-width:200px
+	min-width:100px
 }
   
  .contactForm h3{
@@ -361,6 +360,11 @@ p{
 	width: 100%;
 	margin:0;
 	font-size: 80%;
+}
+
+
+#contactSet{
+width:85%;
 }
  }
  .section img.swing{

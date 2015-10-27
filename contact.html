@@ -107,41 +107,17 @@ function initDropDowns(allMenus) {
 	
 	<div class="contactForm" action="/" method="post">
 		<h3>Comments or Questions? Please reach out to us or check out our social media links below.</h3>
-		<hr/>
-	<form ng-submit="submitForm()" ng-controller="FormController" novalidate>
-		<label for="name">Name</label>
-		<input type="text" name="name" ng-model="formData.name" ng-class="{'error' : errorName}">
-		<label for="email">E-mail</label>
-		<input type="email" name="email" ng-model="formData.email" ng-class="{'error' : errorEmail}">
-		<label for="message">Message</label>
-		<textarea name="message" ng-class="{'error' : errorTextarea}" ng-model="formData.message" cols="30" rows="10"></textarea>
-		<input type="submit" value="Send!" name="submit">
-		<div ng-class="{'submissionMessage' : submission}" ng-bind="submissionMessage"></div>
-	</form>
-		
-		
-		
-		
-		<!-- <div>
-			<label>
-				<span>Name</span>
-				<input type="text" name="name" required="required">
-			</label>
-		</div>
-		<div>
-			<label>
-				<span>E-mail</span>
-				<input type="text" name="email" required="required">
-			</label>
-		</div>
-		<div>
-			<label>
-				<span>Comment or Question</span><br/>
-				<textarea type="text" rows="5" name="message" required="required"></textarea>
-			</label>
-		</div>
-		
-		<button type="submit" id="send">Submit</button> -->
+		<fieldset>
+		<form action="process.php" method="post" name="contactForm" id="contactSet">
+			<label for="name"><span>Name</span></label>
+			<input type="text" name="name" required="required">
+			<label for="email"><span>E-mail</span></label>
+			<input type="text" name="email" required="required">
+			<label for="message"><span>Comment or Question</span></label>
+			<textarea type="text" rows="5" name="message" required="required"></textarea>
+			<input type="submit" id="send" text="Submit"></input>
+		</form>
+		</fieldset>
 		<p>*Your information will not be shared or sold and is solely for communcation purposes between yourself and the Parkolo staff.</p>
 	</div>
 	<br/>
