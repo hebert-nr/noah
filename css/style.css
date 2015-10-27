@@ -12,7 +12,14 @@ h1, h2, h3{
 
 }
 p{
-	font-size:12px;
+	font-size:14px;
+}
+
+#feat{
+	font-size: 1em;
+}
+.addy{
+	font-size: 1.1em;
 }
 
 img{
@@ -316,12 +323,10 @@ p{
 }
 
 #aboutMe{
+ margin-top: 7em;
+ font-size: 15px; 
 
-	margin-top: 2em;
-	margin-bottom: 1em;
-	font-size: 15px; 
 }
-
 .searching h1{
 	font-weight:100;
 }
@@ -368,7 +373,17 @@ p{
 #contactSet{
 width:85%;
 }
+
+#feat{
+	font-size: 1.4em;
+}
+.addy{
+	font-size: 1.4em;
+}
  }
+ 
+ 
+ 
  .section img.swing{
 	text-align:left;
 	float:left;
@@ -386,8 +401,14 @@ width:85%;
 	height: 20%;
 }
 
-#aboutMe p{
-	font-size:16px;
+#aboutMe{
+
+	margin-top: 2em;
+	margin-bottom: 1em;
+ font-size: 15px; 
 }
 
+ p{
+font-size: 11px;
+}
 }
