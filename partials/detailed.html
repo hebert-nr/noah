@@ -2,9 +2,10 @@
   <div class="park cf" ng-model="data">
 	<hr/>
 	<h2>{{data[whichItem].parkName}}</h2>
+	{{data[whichItem].parkId}}
 	<hr/>
-	<p class="addy">{{data[whichItem].streetAddress}}</p>
-	<p class="addy">{{data[whichItem].city}}, {{data[whichItem].zipCode}}</p>
+	<a href="http://google.com/maps/place/@{{data[whichItem].latitude}},{{data[whichItem].longitude}}"><p class="addy">{{data[whichItem].streetAddress}}</p>
+	<p class="addy">{{data[whichItem].city}}, {{data[whichItem].zipCode}}</p></a>
 	<p id="feat"><strong>Features:</strong> {{data[whichItem].feature}}</span>
   </div>
   <a class="btn" onclick="history.back()">&laquo; Back</a>

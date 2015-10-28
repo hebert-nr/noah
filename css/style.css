@@ -190,6 +190,9 @@ ul {
 	text-align:center;
 }
 
+.parkinfo a{
+	text-decoration:none;
+}
 
 footer{
 	background:#005406;
